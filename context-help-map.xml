@@ -204,6 +204,8 @@
    <appContext helpID="save_and_new_payment" path="topics/save_and_new_payment.html"/>
    <appContext helpID="continue" path="topics/continue.html"/>
    <appContext helpID="payment_ai_assistant" path="topics/payment_ai_assistant.html"/>
+   <appContext helpID="mobile_workspace_for_private_client"
+               path="topics/mobile_workspace_for_private_client.html"/>
    <appContext helpID="roles" path="topics/roles.html"/>
    <appContext helpID="bank_s_employee_roles" path="topics/bank_s_employee_roles.html"/>
    <appContext helpID="ber_list" path="topics/ber_list.html"/>
