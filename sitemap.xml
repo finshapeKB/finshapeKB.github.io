@@ -1,1355 +1,1515 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
    <url>
+      <loc>topics/how_to_use_knowledge_base.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
       <loc>topics/digital_banking_main_solution.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/db_modules.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/infrastructure_module.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/infra_components_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/infra_component_1.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/infra_component_2.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/infrs_component_3.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/connectors_module.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/connectors_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dbos_input_connectors.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dbos_internal_connectors.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dbos_component_connectors.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dbos_output_connectors.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dbos_modul.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
-      <loc>topics/feature_component_1.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <loc>topics/digital_identity.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
-      <loc>topics/feature_component_2.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <loc>topics/introduction_to_this_user_guide.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
-      <loc>topics/feature_component_3.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <loc>topics/understanding_user_guide_concept.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/how_to_use_user_guide.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/content_life_cycle.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/party.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/resources.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/introduction_to_the_component.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/what_is_digital_identity_component.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/task_you_accomlish_using_this_component.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/roles_and_its_tasks.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/istallation.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/getting_started.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/frequently_used_shortcut_keys.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/your_first_steps.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/getting_help.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/resources_to_help_you_getting_started.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/configuration.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/maintenance.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/working_with_this_component.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/troubleshooting.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/sider.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/entitlements.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/instant_data.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/payments_instructions_tpm.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/exchange_rates_xcr.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/notifications_gnc.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/distributions_gdc.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/service_proxy_spx.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/four_eyes_fey.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/experience_builder_xpb.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/live_data_streaming_lds.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/integration_hub_gde.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/ai_financial_assistant.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/personalization_platform.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/onboarding.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/graphql_server.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/content_management_system_cms.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/interaction_designer.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/bpm_engine.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/applications_module.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/app_component_1.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/app_component_2.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/app_component_3.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/work_spaces_to_handle_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/bank_s_employee_app_ui.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/bank_s_corporate_client_app_ui.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/bank_s_privat_client_app_ui.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/desktop_private_client_workspace.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/privat_clients_ui_workspace.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/introduction_page_overview.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/privat_clients_accounts_ui_page.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/privat_clients_forein_accouts_ui_page.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/privart_clients_oders.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/privat_clients_cards_ui_page.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/privar_clients_tasks_ui_pages.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/admin_tasks_ui_pages_uift01.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/security_tasks_ui_pages_uift02.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/business_tasks_ui_pages_uift03.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/account_managing_tasks_ui_pages_uift03_01.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/account_managing_tasks_ui_pages_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/searching_for_transactions_history_task_s_ui_page_uift03_01_06.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/new_payment_page.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/making_donations_task_s_ui_page_uift03_01_02.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/making_mobile_payments_task_s_ui_page_uift03_01_03.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/setting_standing_orders_task_s_ui_page_uift03_01_04.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/setting_direct_debits_sipo_task_s_ui_page_uift03_01_05.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/making_transaction_statements_task_s_ui_page_uift03_01_07.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/setting_account_configuration_task_s_ui_page_uift03_01_08.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/reviewing_documents_requests_task_s_ui_page_uift03_01_09.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/printing_account_history_task_s_ui_page_uift03_01_10.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/downloading_account_history_task_s_ui_page_uift03_01_11.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/contacting_help_desk_task_s_ui_page_uift03_01_12.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/comunication_tasks_ui_pages.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/report_and_analysys_tasks_ui_pages.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/management_tasks_ui_pages.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dbos_maintenance_tasks_ui_pages.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/privar_clients_steps_ui_controles.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/desktop_ui_controles_for_privat_client_s_workspece_pages.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/desktop_private_client_workspace_ui_controles.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_overview.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_your_products.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_extensions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_discover.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_fit.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_contact.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_messages.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_configuration.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_logout.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/desktop_ui_controles_for_introduction_overview_ui_page.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_controls_for_desktop_domestic_accounts_ui_page_for_private_client.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_page_title_placeholder.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_new_payment.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_for_side_menu_bar_account_details_placeholder.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_for_side_menu_bar_history.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_for_side_menu_bar_new_payment.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_for_side_menu_bar_donations.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_for_side_menu_bar_statements.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_for_side_menu_bar_standing_orders.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_for_side_menu_bar_direct_debits_sipo.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_for_side_menu_bar_mobile_payments.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_for_side_menu_bar_product_settings.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_for_side_menu_bar_documents_and_requests.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_transaction_s_title_search_input.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_yesterday_s_transaction_search.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_last_week_s_transaction_search.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_last_month_s_transaction_search.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_last_year_s_transaction_search.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_transaction_s_amount_search.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_transaction_s_date_search.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_filter_drop_down_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_filter_highlighted_transactions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_filter_incoming_transactions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_filter_outgoing_transactions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_clear_filter.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_print_history_transactions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_download_history_transactions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_control_placeholder_for_search_results_page.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_controls_for_desktop_foreign_accounts_ui_page_for_private_client.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_controls_for_desktop_orders_ui_page_for_private_clients.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_controls_for_desktop_cards_ui_page_for_private_clients.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/desktop_ui_controls_for_tasks_ui_pages_for_private_clients.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/new_payment_page_ui_controles.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/ui_controls_for_new_payment_task_page_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/page_title.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/page_close_button.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/placeholder_for_account_details.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/qr_code_scanner.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/to_czech_republic.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/to_foreign_country.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/recipient_s_name.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/contacts_and_templates.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/account_number_or_iban.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/bank_code.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/payment_amount.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/currency.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/future_account_balance.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/variable_symbol.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/constant_symbol.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/specific_symbol.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/note_to_payee.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/note_to_sender.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/email_confirmation.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/transfer_date.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/create_a_template.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/save_and_new_payment.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/continue.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/payment_ai_assistant.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/mobile_workspace_for_private_client.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/roles.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/bank_s_employee_roles.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/ber_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/ber_1.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/ber_2.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/ber_3.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/bank_s_corporate_client_roles.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/bcc_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/bcc_1.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/bcc2.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/chief_accountant_officer.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/bcc3.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/bank_s_privat_client.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/rights_to_do_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/right_1.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/right_2.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/right_3.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/right_4.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/untitled10.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/product_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/onboarding_process_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/initial_employee_onboarding_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/project_team_onboarding_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
-   </url>
-   <url>
-      <loc>topics/partner_onboarding_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/finshape_roles.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/salesperson.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/bank_s_employee_roles.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/ber_list.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/ber_1.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/ber_2.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/ber_3.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/bank_s_corporate_client_roles.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/bcc_list.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/bcc_1.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/bcc2.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/chief_accountant_officer.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/bcc3.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/bank_s_privat_client.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/rights_to_do_tasks.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/right_1.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/right_2.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/right_3.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/right_4.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/tasks.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/untitled10.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/product_tasks.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/onboarding_process_tasks.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/initial_employee_onboarding_tasks.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/project_team_onboarding_tasks.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/partner_onboarding_tasks.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/marketing_process_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/sales_process_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/project_implementation_process_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/project_implementation_sales_phase.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/initial_selling_proposition.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/client_support_process_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/bank_employee_onboarding_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/product_development_iprocess_s_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/functional_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/admin_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/security_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/business_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/untitled19.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/functional_tasks_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/business_tasks_1.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/step_by_step_guidance.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/making_donations.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/making_mobile_payments.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/setting_standing_orders.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/setting_direct_debits_sipo.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/seaching_for_transactions_history.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/making_transaction_statements.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/setting_product_configuration.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/reviewing_documents_requests.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/printing_account_history.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/downloading_account_history.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/contacting_help_desk.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/comunication_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/report_and_analysys_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/management_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dbos_maintenance_tasks.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/functions_or_steps.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/function_types.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/functional_task_s_steps_tsf.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/admin_operation_functions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/security_operation_functions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/business_operation_functions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/account_managing_task_s_steps_fts03_01.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/bof_1.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/new_payment_task_s_steps_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/page_title_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/page_close_button_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/placeholder_for_account_details_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/qr_code_scanner_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/to_czech_republic_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/to_foreign_country_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/recipient_s_name_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/contacts_and_templates_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/account_number_or_iban_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/bank_code_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/payment_amount_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/currency_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/future_account_balance_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/variable_symbol_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/constant_symbol_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/specific_symbol_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/note_to_payee_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/note_to_sender_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/email_confirmation_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/transfer_date_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/create_a_template_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/save_and_new_payment_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/continue_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/payment_ai_assistant_0.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/comunication_operation_functions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/report_and_analysys_operation_functions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/management_operation_functions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dbos_maintenance_operation_functions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/product_task_s_steps_tsp.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/onboarding_process_task_s_steps_pts01.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/initial_employee_onboarding_task_s_steps_pts01_01.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/project_team_onboarding_task_s_steps_pts01_02.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/partner_onboarding_task_s_steps_pts01_03.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/marketing_process_task_s_steps_pts02.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/sales_process_task_s_steps_pts03.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/project_process_s_task_s_steps_pts04.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/project_phase_selling_proposition_task_s_steps_pts04_01.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/initial_selling_proposition_task_s_steps_pts04_01_01.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/client_support_process_task_s_steps_pts05.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/bank_employee_onboarding_task_s_steps_pts05_01.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/product_development_process_s_task_s_steps_pts06.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/data_and_dto_access_levels.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/low_access_level.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/middle_access_level.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/high_access_level.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_sources.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_types.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_admin_dbos_functions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_admin_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_admin_1.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_admin_2.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_admin_3.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_security_functions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_security_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_security_1.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_security_2.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_security_3.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_business_functions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_category_account_managing.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_task_new_payment.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_show_page_title.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_close_new_payment_page.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_show_account_details.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_open_qr_code_scanner.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_switch_to_domestic_payment_page.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_switch_to_sepa_payment_page.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_input_recipient_s_name.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_select_contacts_or_templates.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_input_account_number_or_iban.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_select_bank_code.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_input_payment_amount.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_select_currency.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_show_future_account_balance.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_input_variable_symbol.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_input_constant_symbol.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_input_specific_symbol.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_input_note_to_payee.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_input_note_to_sender.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_send_email_confirmation.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_select_desired_payment_date.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_create_payment_template.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_save_payment_order_and_open_new_payment_page.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_run_the_payment_order.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_open_chat_with_payment_ai_assistant.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_task_searching_for_transactions_history.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_filtering_transactions_title.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_filtering_amount.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_filtering_date.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_filtering_highlighted_transactions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_filtering_incoming_transactions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_filtering_outgoing_transactions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_step_search_running.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_task_making_donations.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_task_making_transaction_statements.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_task_setting_standing_orders.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_task_setting_direct_debits_sipo.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_task_making_mobile_payments.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_task_setting_product_configuration.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_task_reviewing_documents_requests.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_task_printing_account_history.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_task_downloading_account_history.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_task_contacting_help_desk.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_communication_functions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_communication_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_communication_1.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_communication_2.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_communication_3.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_report_and_analysys_functions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_report_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_report_1.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_report_2.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_report_3.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_management_functions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_management_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_management_1.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_management_2.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_management_3.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dto_for_dbos_maintenance_functions.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dbo_maint_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dbo_maint_1.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dbo_maint_2.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dbo_maint_3.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/data_sources.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/all_sources_data_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/data_sources_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dbos_components.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/dbos_components_data_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/component_1.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/component_1_data_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/component_1_data_1.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/component_1_data_2.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/component_1_data_3.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/core_banking_systems.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/cbs_data_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/cbs_1.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/cbs_1_data_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/cbs_1_data_1.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/cbs_1_data_2.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/cbs_1_data_3.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/third_party_systems.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/tps_data_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/tps_1.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/tps_1_data_list.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/tps_1_data_1.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/tps_1_data_2.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
    <url>
       <loc>topics/tps_1_data_3.html</loc>
-      <lastmod>2025-11-17T04:09:22Z</lastmod>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
+   </url>
+   <url>
+      <loc>topics/glossary.html</loc>
+      <lastmod>2025-11-17T07:21:18Z</lastmod>
    </url>
 </urlset>
