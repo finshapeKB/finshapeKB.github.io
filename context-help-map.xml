@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="digital_banking_main_solution"
+               path="topics/digital_banking_main_solution.html"/>
+   <appContext helpID="db_modules" path="topics/db_modules.html"/>
+   <appContext helpID="infrastructure_module" path="topics/infrastructure_module.html"/>
+   <appContext helpID="infra_components_list" path="topics/infra_components_list.html"/>
+   <appContext helpID="infra_component_1" path="topics/infra_component_1.html"/>
+   <appContext helpID="infra_component_2" path="topics/infra_component_2.html"/>
+   <appContext helpID="infrs_component_3" path="topics/infrs_component_3.html"/>
+   <appContext helpID="connectors_module" path="topics/connectors_module.html"/>
+   <appContext helpID="connectors_list" path="topics/connectors_list.html"/>
+   <appContext helpID="dbos_input_connectors" path="topics/dbos_input_connectors.html"/>
+   <appContext helpID="dbos_internal_connectors"
+               path="topics/dbos_internal_connectors.html"/>
+   <appContext helpID="dbos_component_connectors"
+               path="topics/dbos_component_connectors.html"/>
+   <appContext helpID="dbos_output_connectors"
+               path="topics/dbos_output_connectors.html"/>
+   <appContext helpID="dbos_modul" path="topics/dbos_modul.html"/>
+   <appContext helpID="feature_component_1" path="topics/feature_component_1.html"/>
+   <appContext helpID="feature_component_2" path="topics/feature_component_2.html"/>
+   <appContext helpID="feature_component_3" path="topics/feature_component_3.html"/>
+   <appContext helpID="applications_module" path="topics/applications_module.html"/>
+   <appContext helpID="app_component_1" path="topics/app_component_1.html"/>
+   <appContext helpID="app_component_2" path="topics/app_component_2.html"/>
+   <appContext helpID="app_component_3" path="topics/app_component_3.html"/>
+   <appContext helpID="work_spaces_to_handle_tasks"
+               path="topics/work_spaces_to_handle_tasks.html"/>
+   <appContext helpID="bank_s_employee_app_ui"
+               path="topics/bank_s_employee_app_ui.html"/>
+   <appContext helpID="bank_s_corporate_client_app_ui"
+               path="topics/bank_s_corporate_client_app_ui.html"/>
+   <appContext helpID="bank_s_privat_client_app_ui"
+               path="topics/bank_s_privat_client_app_ui.html"/>
+   <appContext helpID="desktop_private_client_workspace"
+               path="topics/desktop_private_client_workspace.html"/>
+   <appContext helpID="privat_clients_ui_workspace"
+               path="topics/privat_clients_ui_workspace.html"/>
+   <appContext helpID="introduction_page_overview"
+               path="topics/introduction_page_overview.html"/>
+   <appContext helpID="privat_clients_accounts_ui_page"
+               path="topics/privat_clients_accounts_ui_page.html"/>
+   <appContext helpID="privat_clients_forein_accouts_ui_page"
+               path="topics/privat_clients_forein_accouts_ui_page.html"/>
+   <appContext helpID="privart_clients_oders" path="topics/privart_clients_oders.html"/>
+   <appContext helpID="privat_clients_cards_ui_page"
+               path="topics/privat_clients_cards_ui_page.html"/>
+   <appContext helpID="privar_clients_tasks_ui_pages"
+               path="topics/privar_clients_tasks_ui_pages.html"/>
+   <appContext helpID="admin_tasks_ui_pages_uift01"
+               path="topics/admin_tasks_ui_pages_uift01.html"/>
+   <appContext helpID="security_tasks_ui_pages_uift02"
+               path="topics/security_tasks_ui_pages_uift02.html"/>
+   <appContext helpID="business_tasks_ui_pages_uift03"
+               path="topics/business_tasks_ui_pages_uift03.html"/>
+   <appContext helpID="account_managing_tasks_ui_pages_uift03_01"
+               path="topics/account_managing_tasks_ui_pages_uift03_01.html"/>
+   <appContext helpID="account_managing_tasks_ui_pages_list"
+               path="topics/account_managing_tasks_ui_pages_list.html"/>
+   <appContext helpID="searching_for_transactions_history_task_s_ui_page_uift03_01_06"
+               path="topics/searching_for_transactions_history_task_s_ui_page_uift03_01_06.html"/>
+   <appContext helpID="new_payment_page" path="topics/new_payment_page.html"/>
+   <appContext helpID="making_donations_task_s_ui_page_uift03_01_02"
+               path="topics/making_donations_task_s_ui_page_uift03_01_02.html"/>
+   <appContext helpID="making_mobile_payments_task_s_ui_page_uift03_01_03"
+               path="topics/making_mobile_payments_task_s_ui_page_uift03_01_03.html"/>
+   <appContext helpID="setting_standing_orders_task_s_ui_page_uift03_01_04"
+               path="topics/setting_standing_orders_task_s_ui_page_uift03_01_04.html"/>
+   <appContext helpID="setting_direct_debits_sipo_task_s_ui_page_uift03_01_05"
+               path="topics/setting_direct_debits_sipo_task_s_ui_page_uift03_01_05.html"/>
+   <appContext helpID="making_transaction_statements_task_s_ui_page_uift03_01_07"
+               path="topics/making_transaction_statements_task_s_ui_page_uift03_01_07.html"/>
+   <appContext helpID="setting_account_configuration_task_s_ui_page_uift03_01_08"
+               path="topics/setting_account_configuration_task_s_ui_page_uift03_01_08.html"/>
+   <appContext helpID="reviewing_documents_requests_task_s_ui_page_uift03_01_09"
+               path="topics/reviewing_documents_requests_task_s_ui_page_uift03_01_09.html"/>
+   <appContext helpID="printing_account_history_task_s_ui_page_uift03_01_10"
+               path="topics/printing_account_history_task_s_ui_page_uift03_01_10.html"/>
+   <appContext helpID="downloading_account_history_task_s_ui_page_uift03_01_11"
+               path="topics/downloading_account_history_task_s_ui_page_uift03_01_11.html"/>
+   <appContext helpID="contacting_help_desk_task_s_ui_page_uift03_01_12"
+               path="topics/contacting_help_desk_task_s_ui_page_uift03_01_12.html"/>
+   <appContext helpID="comunication_tasks_ui_pages"
+               path="topics/comunication_tasks_ui_pages.html"/>
+   <appContext helpID="report_and_analysys_tasks_ui_pages"
+               path="topics/report_and_analysys_tasks_ui_pages.html"/>
+   <appContext helpID="management_tasks_ui_pages"
+               path="topics/management_tasks_ui_pages.html"/>
+   <appContext helpID="dbos_maintenance_tasks_ui_pages"
+               path="topics/dbos_maintenance_tasks_ui_pages.html"/>
+   <appContext helpID="privar_clients_steps_ui_controles"
+               path="topics/privar_clients_steps_ui_controles.html"/>
+   <appContext helpID="desktop_ui_controles_for_privat_client_s_workspece_pages"
+               path="topics/desktop_ui_controles_for_privat_client_s_workspece_pages.html"/>
+   <appContext helpID="desktop_private_client_workspace_ui_controles"
+               path="topics/desktop_private_client_workspace_ui_controles.html"/>
+   <appContext helpID="ui_control_overview" path="topics/ui_control_overview.html"/>
+   <appContext helpID="ui_control_your_products"
+               path="topics/ui_control_your_products.html"/>
+   <appContext helpID="ui_control_extensions" path="topics/ui_control_extensions.html"/>
+   <appContext helpID="ui_control_discover" path="topics/ui_control_discover.html"/>
+   <appContext helpID="ui_control_fit" path="topics/ui_control_fit.html"/>
+   <appContext helpID="ui_control_contact" path="topics/ui_control_contact.html"/>
+   <appContext helpID="ui_control_messages" path="topics/ui_control_messages.html"/>
+   <appContext helpID="ui_control_configuration"
+               path="topics/ui_control_configuration.html"/>
+   <appContext helpID="ui_control_logout" path="topics/ui_control_logout.html"/>
+   <appContext helpID="desktop_ui_controles_for_introduction_overview_ui_page"
+               path="topics/desktop_ui_controles_for_introduction_overview_ui_page.html"/>
+   <appContext helpID="ui_controls_for_desktop_domestic_accounts_ui_page_for_private_client"
+               path="topics/ui_controls_for_desktop_domestic_accounts_ui_page_for_private_client.html"/>
+   <appContext helpID="ui_control_page_title_placeholder"
+               path="topics/ui_control_page_title_placeholder.html"/>
+   <appContext helpID="ui_control_new_payment"
+               path="topics/ui_control_new_payment.html"/>
+   <appContext helpID="ui_control_for_side_menu_bar_account_details_placeholder"
+               path="topics/ui_control_for_side_menu_bar_account_details_placeholder.html"/>
+   <appContext helpID="ui_control_for_side_menu_bar_history"
+               path="topics/ui_control_for_side_menu_bar_history.html"/>
+   <appContext helpID="ui_control_for_side_menu_bar_new_payment"
+               path="topics/ui_control_for_side_menu_bar_new_payment.html"/>
+   <appContext helpID="ui_control_for_side_menu_bar_donations"
+               path="topics/ui_control_for_side_menu_bar_donations.html"/>
+   <appContext helpID="ui_control_for_side_menu_bar_statements"
+               path="topics/ui_control_for_side_menu_bar_statements.html"/>
+   <appContext helpID="ui_control_for_side_menu_bar_standing_orders"
+               path="topics/ui_control_for_side_menu_bar_standing_orders.html"/>
+   <appContext helpID="ui_control_for_side_menu_bar_direct_debits_sipo"
+               path="topics/ui_control_for_side_menu_bar_direct_debits_sipo.html"/>
+   <appContext helpID="ui_control_for_side_menu_bar_mobile_payments"
+               path="topics/ui_control_for_side_menu_bar_mobile_payments.html"/>
+   <appContext helpID="ui_control_for_side_menu_bar_product_settings"
+               path="topics/ui_control_for_side_menu_bar_product_settings.html"/>
+   <appContext helpID="ui_control_for_side_menu_bar_documents_and_requests"
+               path="topics/ui_control_for_side_menu_bar_documents_and_requests.html"/>
+   <appContext helpID="ui_control_transaction_s_title_search_input"
+               path="topics/ui_control_transaction_s_title_search_input.html"/>
+   <appContext helpID="ui_control_yesterday_s_transaction_search"
+               path="topics/ui_control_yesterday_s_transaction_search.html"/>
+   <appContext helpID="ui_control_last_week_s_transaction_search"
+               path="topics/ui_control_last_week_s_transaction_search.html"/>
+   <appContext helpID="ui_control_last_month_s_transaction_search"
+               path="topics/ui_control_last_month_s_transaction_search.html"/>
+   <appContext helpID="ui_control_last_year_s_transaction_search"
+               path="topics/ui_control_last_year_s_transaction_search.html"/>
+   <appContext helpID="ui_control_transaction_s_amount_search"
+               path="topics/ui_control_transaction_s_amount_search.html"/>
+   <appContext helpID="ui_control_transaction_s_date_search"
+               path="topics/ui_control_transaction_s_date_search.html"/>
+   <appContext helpID="ui_control_filter_drop_down_list"
+               path="topics/ui_control_filter_drop_down_list.html"/>
+   <appContext helpID="ui_control_filter_highlighted_transactions"
+               path="topics/ui_control_filter_highlighted_transactions.html"/>
+   <appContext helpID="ui_control_filter_incoming_transactions"
+               path="topics/ui_control_filter_incoming_transactions.html"/>
+   <appContext helpID="ui_control_filter_outgoing_transactions"
+               path="topics/ui_control_filter_outgoing_transactions.html"/>
+   <appContext helpID="ui_control_clear_filter"
+               path="topics/ui_control_clear_filter.html"/>
+   <appContext helpID="ui_control_print_history_transactions"
+               path="topics/ui_control_print_history_transactions.html"/>
+   <appContext helpID="ui_control_download_history_transactions"
+               path="topics/ui_control_download_history_transactions.html"/>
+   <appContext helpID="ui_control_placeholder_for_search_results_page"
+               path="topics/ui_control_placeholder_for_search_results_page.html"/>
+   <appContext helpID="ui_controls_for_desktop_foreign_accounts_ui_page_for_private_client"
+               path="topics/ui_controls_for_desktop_foreign_accounts_ui_page_for_private_client.html"/>
+   <appContext helpID="ui_controls_for_desktop_orders_ui_page_for_private_clients"
+               path="topics/ui_controls_for_desktop_orders_ui_page_for_private_clients.html"/>
+   <appContext helpID="ui_controls_for_desktop_cards_ui_page_for_private_clients"
+               path="topics/ui_controls_for_desktop_cards_ui_page_for_private_clients.html"/>
+   <appContext helpID="desktop_ui_controls_for_tasks_ui_pages_for_private_clients"
+               path="topics/desktop_ui_controls_for_tasks_ui_pages_for_private_clients.html"/>
+   <appContext helpID="new_payment_page_ui_controles"
+               path="topics/new_payment_page_ui_controles.html"/>
+   <appContext helpID="ui_controls_for_new_payment_task_page_list"
+               path="topics/ui_controls_for_new_payment_task_page_list.html"/>
+   <appContext helpID="page_title" path="topics/page_title.html"/>
+   <appContext helpID="page_close_button" path="topics/page_close_button.html"/>
+   <appContext helpID="placeholder_for_account_details"
+               path="topics/placeholder_for_account_details.html"/>
+   <appContext helpID="qr_code_scanner" path="topics/qr_code_scanner.html"/>
+   <appContext helpID="to_czech_republic" path="topics/to_czech_republic.html"/>
+   <appContext helpID="to_foreign_country" path="topics/to_foreign_country.html"/>
+   <appContext helpID="recipient_s_name" path="topics/recipient_s_name.html"/>
+   <appContext helpID="contacts_and_templates"
+               path="topics/contacts_and_templates.html"/>
+   <appContext helpID="account_number_or_iban"
+               path="topics/account_number_or_iban.html"/>
+   <appContext helpID="bank_code" path="topics/bank_code.html"/>
+   <appContext helpID="payment_amount" path="topics/payment_amount.html"/>
+   <appContext helpID="currency" path="topics/currency.html"/>
+   <appContext helpID="future_account_balance"
+               path="topics/future_account_balance.html"/>
+   <appContext helpID="variable_symbol" path="topics/variable_symbol.html"/>
+   <appContext helpID="constant_symbol" path="topics/constant_symbol.html"/>
+   <appContext helpID="specific_symbol" path="topics/specific_symbol.html"/>
+   <appContext helpID="note_to_payee" path="topics/note_to_payee.html"/>
+   <appContext helpID="note_to_sender" path="topics/note_to_sender.html"/>
+   <appContext helpID="email_confirmation" path="topics/email_confirmation.html"/>
+   <appContext helpID="transfer_date" path="topics/transfer_date.html"/>
+   <appContext helpID="create_a_template" path="topics/create_a_template.html"/>
+   <appContext helpID="save_and_new_payment" path="topics/save_and_new_payment.html"/>
+   <appContext helpID="continue" path="topics/continue.html"/>
+   <appContext helpID="payment_ai_assistant" path="topics/payment_ai_assistant.html"/>
+   <appContext helpID="roles" path="topics/roles.html"/>
+   <appContext helpID="bank_s_employee_roles" path="topics/bank_s_employee_roles.html"/>
+   <appContext helpID="ber_list" path="topics/ber_list.html"/>
+   <appContext helpID="ber_1" path="topics/ber_1.html"/>
+   <appContext helpID="ber_2" path="topics/ber_2.html"/>
+   <appContext helpID="ber_3" path="topics/ber_3.html"/>
+   <appContext helpID="bank_s_corporate_client_roles"
+               path="topics/bank_s_corporate_client_roles.html"/>
+   <appContext helpID="bcc_list" path="topics/bcc_list.html"/>
+   <appContext helpID="bcc_1" path="topics/bcc_1.html"/>
+   <appContext helpID="bcc2" path="topics/bcc2.html"/>
+   <appContext helpID="chief_accountant_officer"
+               path="topics/chief_accountant_officer.html"/>
+   <appContext helpID="bcc3" path="topics/bcc3.html"/>
+   <appContext helpID="bank_s_privat_client" path="topics/bank_s_privat_client.html"/>
+   <appContext helpID="rights_to_do_tasks" path="topics/rights_to_do_tasks.html"/>
+   <appContext helpID="right_1" path="topics/right_1.html"/>
+   <appContext helpID="right_2" path="topics/right_2.html"/>
+   <appContext helpID="right_3" path="topics/right_3.html"/>
+   <appContext helpID="right_4" path="topics/right_4.html"/>
+   <appContext helpID="tasks" path="topics/tasks.html"/>
+   <appContext helpID="untitled10" path="topics/untitled10.html"/>
+   <appContext helpID="product_tasks" path="topics/product_tasks.html"/>
+   <appContext helpID="onboarding_process_tasks"
+               path="topics/onboarding_process_tasks.html"/>
+   <appContext helpID="initial_employee_onboarding_tasks"
+               path="topics/initial_employee_onboarding_tasks.html"/>
+   <appContext helpID="project_team_onboarding_tasks"
+               path="topics/project_team_onboarding_tasks.html"/>
+   <appContext helpID="partner_onboarding_tasks"
+               path="topics/partner_onboarding_tasks.html"/>
+   <appContext helpID="finshape_roles" path="topics/finshape_roles.html"/>
+   <appContext helpID="salesperson" path="topics/salesperson.html"/>
+   <appContext helpID="marketing_process_tasks"
+               path="topics/marketing_process_tasks.html"/>
+   <appContext helpID="sales_process_tasks" path="topics/sales_process_tasks.html"/>
+   <appContext helpID="project_implementation_process_tasks"
+               path="topics/project_implementation_process_tasks.html"/>
+   <appContext helpID="project_implementation_sales_phase"
+               path="topics/project_implementation_sales_phase.html"/>
+   <appContext helpID="initial_selling_proposition"
+               path="topics/initial_selling_proposition.html"/>
+   <appContext helpID="client_support_process_tasks"
+               path="topics/client_support_process_tasks.html"/>
+   <appContext helpID="bank_employee_onboarding_tasks"
+               path="topics/bank_employee_onboarding_tasks.html"/>
+   <appContext helpID="product_development_iprocess_s_tasks"
+               path="topics/product_development_iprocess_s_tasks.html"/>
+   <appContext helpID="functional_tasks" path="topics/functional_tasks.html"/>
+   <appContext helpID="admin_tasks" path="topics/admin_tasks.html"/>
+   <appContext helpID="security_tasks" path="topics/security_tasks.html"/>
+   <appContext helpID="business_tasks" path="topics/business_tasks.html"/>
+   <appContext helpID="untitled19" path="topics/untitled19.html"/>
+   <appContext helpID="functional_tasks_list" path="topics/functional_tasks_list.html"/>
+   <appContext helpID="business_tasks_1" path="topics/business_tasks_1.html"/>
+   <appContext helpID="making_donations" path="topics/making_donations.html"/>
+   <appContext helpID="making_mobile_payments"
+               path="topics/making_mobile_payments.html"/>
+   <appContext helpID="setting_standing_orders"
+               path="topics/setting_standing_orders.html"/>
+   <appContext helpID="setting_direct_debits_sipo"
+               path="topics/setting_direct_debits_sipo.html"/>
+   <appContext helpID="seaching_for_transactions_history"
+               path="topics/seaching_for_transactions_history.html"/>
+   <appContext helpID="making_transaction_statements"
+               path="topics/making_transaction_statements.html"/>
+   <appContext helpID="setting_product_configuration"
+               path="topics/setting_product_configuration.html"/>
+   <appContext helpID="reviewing_documents_requests"
+               path="topics/reviewing_documents_requests.html"/>
+   <appContext helpID="printing_account_history"
+               path="topics/printing_account_history.html"/>
+   <appContext helpID="downloading_account_history"
+               path="topics/downloading_account_history.html"/>
+   <appContext helpID="contacting_help_desk" path="topics/contacting_help_desk.html"/>
+   <appContext helpID="comunication_tasks" path="topics/comunication_tasks.html"/>
+   <appContext helpID="report_and_analysys_tasks"
+               path="topics/report_and_analysys_tasks.html"/>
+   <appContext helpID="management_tasks" path="topics/management_tasks.html"/>
+   <appContext helpID="dbos_maintenance_tasks"
+               path="topics/dbos_maintenance_tasks.html"/>
+   <appContext helpID="functions_or_steps" path="topics/functions_or_steps.html"/>
+   <appContext helpID="function_types" path="topics/function_types.html"/>
+   <appContext helpID="functional_task_s_steps_tsf"
+               path="topics/functional_task_s_steps_tsf.html"/>
+   <appContext helpID="admin_operation_functions"
+               path="topics/admin_operation_functions.html"/>
+   <appContext helpID="security_operation_functions"
+               path="topics/security_operation_functions.html"/>
+   <appContext helpID="business_operation_functions"
+               path="topics/business_operation_functions.html"/>
+   <appContext helpID="account_managing_task_s_steps_fts03_01"
+               path="topics/account_managing_task_s_steps_fts03_01.html"/>
+   <appContext helpID="bof_1" path="topics/bof_1.html"/>
+   <appContext helpID="new_payment_task_s_steps_list"
+               path="topics/new_payment_task_s_steps_list.html"/>
+   <appContext helpID="page_title_0" path="topics/page_title_0.html"/>
+   <appContext helpID="page_close_button_0" path="topics/page_close_button_0.html"/>
+   <appContext helpID="placeholder_for_account_details_0"
+               path="topics/placeholder_for_account_details_0.html"/>
+   <appContext helpID="qr_code_scanner_0" path="topics/qr_code_scanner_0.html"/>
+   <appContext helpID="to_czech_republic_0" path="topics/to_czech_republic_0.html"/>
+   <appContext helpID="to_foreign_country_0" path="topics/to_foreign_country_0.html"/>
+   <appContext helpID="recipient_s_name_0" path="topics/recipient_s_name_0.html"/>
+   <appContext helpID="contacts_and_templates_0"
+               path="topics/contacts_and_templates_0.html"/>
+   <appContext helpID="account_number_or_iban_0"
+               path="topics/account_number_or_iban_0.html"/>
+   <appContext helpID="bank_code_0" path="topics/bank_code_0.html"/>
+   <appContext helpID="payment_amount_0" path="topics/payment_amount_0.html"/>
+   <appContext helpID="currency_0" path="topics/currency_0.html"/>
+   <appContext helpID="future_account_balance_0"
+               path="topics/future_account_balance_0.html"/>
+   <appContext helpID="variable_symbol_0" path="topics/variable_symbol_0.html"/>
+   <appContext helpID="constant_symbol_0" path="topics/constant_symbol_0.html"/>
+   <appContext helpID="specific_symbol_0" path="topics/specific_symbol_0.html"/>
+   <appContext helpID="note_to_payee_0" path="topics/note_to_payee_0.html"/>
+   <appContext helpID="note_to_sender_0" path="topics/note_to_sender_0.html"/>
+   <appContext helpID="email_confirmation_0" path="topics/email_confirmation_0.html"/>
+   <appContext helpID="transfer_date_0" path="topics/transfer_date_0.html"/>
+   <appContext helpID="create_a_template_0" path="topics/create_a_template_0.html"/>
+   <appContext helpID="save_and_new_payment_0"
+               path="topics/save_and_new_payment_0.html"/>
+   <appContext helpID="continue_0" path="topics/continue_0.html"/>
+   <appContext helpID="payment_ai_assistant_0"
+               path="topics/payment_ai_assistant_0.html"/>
+   <appContext helpID="comunication_operation_functions"
+               path="topics/comunication_operation_functions.html"/>
+   <appContext helpID="report_and_analysys_operation_functions"
+               path="topics/report_and_analysys_operation_functions.html"/>
+   <appContext helpID="management_operation_functions"
+               path="topics/management_operation_functions.html"/>
+   <appContext helpID="dbos_maintenance_operation_functions"
+               path="topics/dbos_maintenance_operation_functions.html"/>
+   <appContext helpID="product_task_s_steps_tsp"
+               path="topics/product_task_s_steps_tsp.html"/>
+   <appContext helpID="onboarding_process_task_s_steps_pts01"
+               path="topics/onboarding_process_task_s_steps_pts01.html"/>
+   <appContext helpID="initial_employee_onboarding_task_s_steps_pts01_01"
+               path="topics/initial_employee_onboarding_task_s_steps_pts01_01.html"/>
+   <appContext helpID="project_team_onboarding_task_s_steps_pts01_02"
+               path="topics/project_team_onboarding_task_s_steps_pts01_02.html"/>
+   <appContext helpID="partner_onboarding_task_s_steps_pts01_03"
+               path="topics/partner_onboarding_task_s_steps_pts01_03.html"/>
+   <appContext helpID="marketing_process_task_s_steps_pts02"
+               path="topics/marketing_process_task_s_steps_pts02.html"/>
+   <appContext helpID="sales_process_task_s_steps_pts03"
+               path="topics/sales_process_task_s_steps_pts03.html"/>
+   <appContext helpID="project_process_s_task_s_steps_pts04"
+               path="topics/project_process_s_task_s_steps_pts04.html"/>
+   <appContext helpID="project_phase_selling_proposition_task_s_steps_pts04_01"
+               path="topics/project_phase_selling_proposition_task_s_steps_pts04_01.html"/>
+   <appContext helpID="initial_selling_proposition_task_s_steps_pts04_01_01"
+               path="topics/initial_selling_proposition_task_s_steps_pts04_01_01.html"/>
+   <appContext helpID="client_support_process_task_s_steps_pts05"
+               path="topics/client_support_process_task_s_steps_pts05.html"/>
+   <appContext helpID="bank_employee_onboarding_task_s_steps_pts05_01"
+               path="topics/bank_employee_onboarding_task_s_steps_pts05_01.html"/>
+   <appContext helpID="product_development_process_s_task_s_steps_pts06"
+               path="topics/product_development_process_s_task_s_steps_pts06.html"/>
+   <appContext helpID="data_and_dto_access_levels"
+               path="topics/data_and_dto_access_levels.html"/>
+   <appContext helpID="low_access_level" path="topics/low_access_level.html"/>
+   <appContext helpID="middle_access_level" path="topics/middle_access_level.html"/>
+   <appContext helpID="high_access_level" path="topics/high_access_level.html"/>
+   <appContext helpID="dto_sources" path="topics/dto_sources.html"/>
+   <appContext helpID="dto_types" path="topics/dto_types.html"/>
+   <appContext helpID="dto_for_admin_dbos_functions"
+               path="topics/dto_for_admin_dbos_functions.html"/>
+   <appContext helpID="dto_admin_list" path="topics/dto_admin_list.html"/>
+   <appContext helpID="dto_admin_1" path="topics/dto_admin_1.html"/>
+   <appContext helpID="dto_admin_2" path="topics/dto_admin_2.html"/>
+   <appContext helpID="dto_admin_3" path="topics/dto_admin_3.html"/>
+   <appContext helpID="dto_for_security_functions"
+               path="topics/dto_for_security_functions.html"/>
+   <appContext helpID="dto_security_list" path="topics/dto_security_list.html"/>
+   <appContext helpID="dto_security_1" path="topics/dto_security_1.html"/>
+   <appContext helpID="dto_security_2" path="topics/dto_security_2.html"/>
+   <appContext helpID="dto_security_3" path="topics/dto_security_3.html"/>
+   <appContext helpID="dto_for_business_functions"
+               path="topics/dto_for_business_functions.html"/>
+   <appContext helpID="dto_for_category_account_managing"
+               path="topics/dto_for_category_account_managing.html"/>
+   <appContext helpID="dto_for_task_new_payment"
+               path="topics/dto_for_task_new_payment.html"/>
+   <appContext helpID="dto_for_step_show_page_title"
+               path="topics/dto_for_step_show_page_title.html"/>
+   <appContext helpID="dto_for_step_close_new_payment_page"
+               path="topics/dto_for_step_close_new_payment_page.html"/>
+   <appContext helpID="dto_for_step_show_account_details"
+               path="topics/dto_for_step_show_account_details.html"/>
+   <appContext helpID="dto_for_step_open_qr_code_scanner"
+               path="topics/dto_for_step_open_qr_code_scanner.html"/>
+   <appContext helpID="dto_for_step_switch_to_domestic_payment_page"
+               path="topics/dto_for_step_switch_to_domestic_payment_page.html"/>
+   <appContext helpID="dto_for_step_switch_to_sepa_payment_page"
+               path="topics/dto_for_step_switch_to_sepa_payment_page.html"/>
+   <appContext helpID="dto_for_step_input_recipient_s_name"
+               path="topics/dto_for_step_input_recipient_s_name.html"/>
+   <appContext helpID="dto_for_step_select_contacts_or_templates"
+               path="topics/dto_for_step_select_contacts_or_templates.html"/>
+   <appContext helpID="dto_for_step_input_account_number_or_iban"
+               path="topics/dto_for_step_input_account_number_or_iban.html"/>
+   <appContext helpID="dto_for_step_select_bank_code"
+               path="topics/dto_for_step_select_bank_code.html"/>
+   <appContext helpID="dto_for_step_input_payment_amount"
+               path="topics/dto_for_step_input_payment_amount.html"/>
+   <appContext helpID="dto_for_step_select_currency"
+               path="topics/dto_for_step_select_currency.html"/>
+   <appContext helpID="dto_for_step_show_future_account_balance"
+               path="topics/dto_for_step_show_future_account_balance.html"/>
+   <appContext helpID="dto_for_step_input_variable_symbol"
+               path="topics/dto_for_step_input_variable_symbol.html"/>
+   <appContext helpID="dto_for_step_input_constant_symbol"
+               path="topics/dto_for_step_input_constant_symbol.html"/>
+   <appContext helpID="dto_for_step_input_specific_symbol"
+               path="topics/dto_for_step_input_specific_symbol.html"/>
+   <appContext helpID="dto_for_step_input_note_to_payee"
+               path="topics/dto_for_step_input_note_to_payee.html"/>
+   <appContext helpID="dto_for_step_input_note_to_sender"
+               path="topics/dto_for_step_input_note_to_sender.html"/>
+   <appContext helpID="dto_for_step_send_email_confirmation"
+               path="topics/dto_for_step_send_email_confirmation.html"/>
+   <appContext helpID="dto_for_step_select_desired_payment_date"
+               path="topics/dto_for_step_select_desired_payment_date.html"/>
+   <appContext helpID="dto_for_step_create_payment_template"
+               path="topics/dto_for_step_create_payment_template.html"/>
+   <appContext helpID="dto_for_step_save_payment_order_and_open_new_payment_page"
+               path="topics/dto_for_step_save_payment_order_and_open_new_payment_page.html"/>
+   <appContext helpID="dto_for_step_run_the_payment_order"
+               path="topics/dto_for_step_run_the_payment_order.html"/>
+   <appContext helpID="dto_for_step_open_chat_with_payment_ai_assistant"
+               path="topics/dto_for_step_open_chat_with_payment_ai_assistant.html"/>
+   <appContext helpID="dto_for_task_searching_for_transactions_history"
+               path="topics/dto_for_task_searching_for_transactions_history.html"/>
+   <appContext helpID="dto_for_step_filtering_transactions_title"
+               path="topics/dto_for_step_filtering_transactions_title.html"/>
+   <appContext helpID="dto_for_step_filtering_amount"
+               path="topics/dto_for_step_filtering_amount.html"/>
+   <appContext helpID="dto_for_step_filtering_date"
+               path="topics/dto_for_step_filtering_date.html"/>
+   <appContext helpID="dto_for_step_filtering_highlighted_transactions"
+               path="topics/dto_for_step_filtering_highlighted_transactions.html"/>
+   <appContext helpID="dto_for_step_filtering_incoming_transactions"
+               path="topics/dto_for_step_filtering_incoming_transactions.html"/>
+   <appContext helpID="dto_for_step_filtering_outgoing_transactions"
+               path="topics/dto_for_step_filtering_outgoing_transactions.html"/>
+   <appContext helpID="dto_for_step_search_running"
+               path="topics/dto_for_step_search_running.html"/>
+   <appContext helpID="dto_for_task_making_donations"
+               path="topics/dto_for_task_making_donations.html"/>
+   <appContext helpID="dto_for_task_making_transaction_statements"
+               path="topics/dto_for_task_making_transaction_statements.html"/>
+   <appContext helpID="dto_for_task_setting_standing_orders"
+               path="topics/dto_for_task_setting_standing_orders.html"/>
+   <appContext helpID="dto_for_task_setting_direct_debits_sipo"
+               path="topics/dto_for_task_setting_direct_debits_sipo.html"/>
+   <appContext helpID="dto_for_task_making_mobile_payments"
+               path="topics/dto_for_task_making_mobile_payments.html"/>
+   <appContext helpID="dto_for_task_setting_product_configuration"
+               path="topics/dto_for_task_setting_product_configuration.html"/>
+   <appContext helpID="dto_for_task_reviewing_documents_requests"
+               path="topics/dto_for_task_reviewing_documents_requests.html"/>
+   <appContext helpID="dto_for_task_printing_account_history"
+               path="topics/dto_for_task_printing_account_history.html"/>
+   <appContext helpID="dto_for_task_downloading_account_history"
+               path="topics/dto_for_task_downloading_account_history.html"/>
+   <appContext helpID="dto_for_task_contacting_help_desk"
+               path="topics/dto_for_task_contacting_help_desk.html"/>
+   <appContext helpID="dto_for_communication_functions"
+               path="topics/dto_for_communication_functions.html"/>
+   <appContext helpID="dto_communication_list"
+               path="topics/dto_communication_list.html"/>
+   <appContext helpID="dto_communication_1" path="topics/dto_communication_1.html"/>
+   <appContext helpID="dto_communication_2" path="topics/dto_communication_2.html"/>
+   <appContext helpID="dto_communication_3" path="topics/dto_communication_3.html"/>
+   <appContext helpID="dto_for_report_and_analysys_functions"
+               path="topics/dto_for_report_and_analysys_functions.html"/>
+   <appContext helpID="dto_report_list" path="topics/dto_report_list.html"/>
+   <appContext helpID="dto_report_1" path="topics/dto_report_1.html"/>
+   <appContext helpID="dto_report_2" path="topics/dto_report_2.html"/>
+   <appContext helpID="dto_report_3" path="topics/dto_report_3.html"/>
+   <appContext helpID="dto_for_management_functions"
+               path="topics/dto_for_management_functions.html"/>
+   <appContext helpID="dto_management_list" path="topics/dto_management_list.html"/>
+   <appContext helpID="dto_management_1" path="topics/dto_management_1.html"/>
+   <appContext helpID="dto_management_2" path="topics/dto_management_2.html"/>
+   <appContext helpID="dto_management_3" path="topics/dto_management_3.html"/>
+   <appContext helpID="dto_for_dbos_maintenance_functions"
+               path="topics/dto_for_dbos_maintenance_functions.html"/>
+   <appContext helpID="dbo_maint_list" path="topics/dbo_maint_list.html"/>
+   <appContext helpID="dbo_maint_1" path="topics/dbo_maint_1.html"/>
+   <appContext helpID="dbo_maint_2" path="topics/dbo_maint_2.html"/>
+   <appContext helpID="dbo_maint_3" path="topics/dbo_maint_3.html"/>
+   <appContext helpID="data_sources" path="topics/data_sources.html"/>
+   <appContext helpID="all_sources_data_list" path="topics/all_sources_data_list.html"/>
+   <appContext helpID="data_sources_list" path="topics/data_sources_list.html"/>
+   <appContext helpID="dbos_components" path="topics/dbos_components.html"/>
+   <appContext helpID="dbos_components_data_list"
+               path="topics/dbos_components_data_list.html"/>
+   <appContext helpID="component_1" path="topics/component_1.html"/>
+   <appContext helpID="component_1_data_list" path="topics/component_1_data_list.html"/>
+   <appContext helpID="component_1_data_1" path="topics/component_1_data_1.html"/>
+   <appContext helpID="component_1_data_2" path="topics/component_1_data_2.html"/>
+   <appContext helpID="component_1_data_3" path="topics/component_1_data_3.html"/>
+   <appContext helpID="core_banking_systems" path="topics/core_banking_systems.html"/>
+   <appContext helpID="cbs_data_list" path="topics/cbs_data_list.html"/>
+   <appContext helpID="cbs_1" path="topics/cbs_1.html"/>
+   <appContext helpID="cbs_1_data_list" path="topics/cbs_1_data_list.html"/>
+   <appContext helpID="cbs_1_data_1" path="topics/cbs_1_data_1.html"/>
+   <appContext helpID="cbs_1_data_2" path="topics/cbs_1_data_2.html"/>
+   <appContext helpID="cbs_1_data_3" path="topics/cbs_1_data_3.html"/>
+   <appContext helpID="third_party_systems" path="topics/third_party_systems.html"/>
+   <appContext helpID="tps_data_list" path="topics/tps_data_list.html"/>
+   <appContext helpID="tps_1" path="topics/tps_1.html"/>
+   <appContext helpID="tps_1_data_list" path="topics/tps_1_data_list.html"/>
+   <appContext helpID="tps_1_data_1" path="topics/tps_1_data_1.html"/>
+   <appContext helpID="tps_1_data_2" path="topics/tps_1_data_2.html"/>
+   <appContext helpID="tps_1_data_3" path="topics/tps_1_data_3.html"/>
+</map>

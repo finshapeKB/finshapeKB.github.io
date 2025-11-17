@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"data_trannsfering_objects-d2194e453":{"topics":[{"title":"DTO list","href":"topics\/dto_list.html","attributes":{"data-id":"dto_list"},"menu":{"hasChildren":false},"tocID":"dto_list-d2194e461","topics":[]}]}};

@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"digital_banking_main_solution-d2194e2551":{"topics":[{"title":"DB Modules","href":"topics\/db_modules.html","attributes":{"data-id":"db_modules"},"menu":{"hasChildren":true},"tocID":"db_modules-d2194e2559","next":"db_modules-d2194e2559"}]}};

@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"bank_s_privat_client_app_ui-d2163e213":{"topics":[{"title":"Desktop workspace for Private Client","href":"topics\/desktop_private_client_workspace.html","attributes":{"data-id":"desktop_private_client_workspace"},"menu":{"hasChildren":false},"tocID":"desktop_private_client_workspace-d2163e224","next":"desktop_private_client_workspace-d2163e224"}]}};
