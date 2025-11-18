@@ -261,7 +261,20 @@
                path="topics/mobile_workspace_for_private_client.html"/>
    <appContext helpID="roles" path="topics/roles.html"/>
    <appContext helpID="finshape_roles" path="topics/finshape_roles.html"/>
+   <appContext helpID="marketing" path="topics/marketing.html"/>
+   <appContext helpID="sales" path="topics/sales.html"/>
    <appContext helpID="salesperson" path="topics/salesperson.html"/>
+   <appContext helpID="business_analyst" path="topics/business_analyst.html"/>
+   <appContext helpID="technical_analyst" path="topics/technical_analyst.html"/>
+   <appContext helpID="solution_architect" path="topics/solution_architect.html"/>
+   <appContext helpID="infrastructure_delivery"
+               path="topics/infrastructure_delivery.html"/>
+   <appContext helpID="software_delivery" path="topics/software_delivery.html"/>
+   <appContext helpID="api_developer" path="topics/api_developer.html"/>
+   <appContext helpID="backend_developer" path="topics/backend_developer.html"/>
+   <appContext helpID="frontend_developer" path="topics/frontend_developer.html"/>
+   <appContext helpID="tester" path="topics/tester.html"/>
+   <appContext helpID="partner_implementator" path="topics/partner_implementator.html"/>
    <appContext helpID="bank_s_employee_roles" path="topics/bank_s_employee_roles.html"/>
    <appContext helpID="ber_list" path="topics/ber_list.html"/>
    <appContext helpID="ber_1" path="topics/ber_1.html"/>
