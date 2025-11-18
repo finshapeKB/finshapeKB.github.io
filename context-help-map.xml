@@ -301,6 +301,9 @@
                path="topics/project_implementation_sales_phase.html"/>
    <appContext helpID="initial_selling_proposition"
                path="topics/initial_selling_proposition.html"/>
+   <appContext helpID="project_phase_solution_blueprint_creation"
+               path="topics/project_phase_solution_blueprint_creation.html"/>
+   <appContext helpID="components_selection" path="topics/components_selection.html"/>
    <appContext helpID="client_support_process_tasks"
                path="topics/client_support_process_tasks.html"/>
    <appContext helpID="bank_employee_onboarding_tasks"
