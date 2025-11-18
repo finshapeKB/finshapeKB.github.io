@@ -1,0 +1,607 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" data-whc_version="27.1">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="description" content="User story description As a User, I want to create a domestic payment order to transfer money from my account to another account within the same country, either by filling in an empty form or using a ..."/><meta name="DC.rights.owner" content="(C) Copyright 2025"/><meta name="copyright" content="(C) Copyright 2025"/><meta name="generator" content="DITA-OT"/><meta name="DC.type" content="topic"/><meta name="DC.relation" content="../topics/business_tasks_1.html"/><meta name="DC.format" content="HTML5"/><meta name="DC.identifier" content="functional_analysis_confluence"/><title>Functional Analysis (Confluence)</title><!--  Generated with Oxygen version 27.1, build number 2025063009.  --><meta name="wh-path2root" content="../"/><meta name="wh-toc-id" content="functional_analysis_confluence-d2506e1913"/><meta name="wh-source-relpath" content="topics/functional_analysis_confluence.dita"/><meta name="wh-out-relpath" content="topics/functional_analysis_confluence.html"/>
+
+    <link rel="stylesheet" type="text/css" href="../oxygen-webhelp/app/commons.css?buildId=2025063009"/>
+    <link rel="stylesheet" type="text/css" href="../oxygen-webhelp/app/topic.css?buildId=2025063009"/>
+
+    <script src="../oxygen-webhelp/app/options/properties.js?buildId=20251118200251"></script>
+    <script src="../oxygen-webhelp/app/localization/strings.js?buildId=2025063009"></script>
+    <script src="../oxygen-webhelp/app/search/index/keywords.js?buildId=20251118200251"></script>
+    <script defer="defer" src="../oxygen-webhelp/app/commons.js?buildId=2025063009"></script>
+    <script defer="defer" src="../oxygen-webhelp/app/topic.js?buildId=2025063009"></script>
+<link rel="stylesheet" type="text/css" href="../oxygen-webhelp/template/ashes.css?buildId=2025063009"/><link rel="stylesheet" type="text/css" href="../oxygen-webhelp/template/notes.css?buildId=2025063009"/></head>
+
+    <body id="functional_analysis_confluence" class="wh_topic_page frmBody">
+        <a href="#wh_topic_body" class="visually-hidden visually-hidden-focusable">
+            Jump to main content
+        </a>
+        
+        
+        
+        
+        <header class="navbar navbar-default wh_header">
+    <div class="container-fluid navbar-expand-md">
+        <div class="wh_header_flex_container navbar-nav navbar-dark">
+            <div class="wh_logo_and_publication_title_container">
+                <div class="wh_logo_and_publication_title">
+                    
+                    
+                    <div class=" wh_publication_title "><a href="../index.html"><span class="title">Finshape Knowledge Base</span></a></div>
+                    
+                </div>
+                
+                <button type="button" data-bs-target="#wh_top_menu_and_indexterms_link" id="wh_menu_mobile_button" data-bs-toggle="collapse" class="navbar-toggler collapsed wh_toggle_button" aria-expanded="false" aria-label="Toggle menu" aria-controls="wh_top_menu_and_indexterms_link">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+
+            <div class="wh_top_menu_and_indexterms_link collapse navbar-collapse" id="wh_top_menu_and_indexterms_link">
+                
+                <nav class=" wh_top_menu " aria-label="Menu Container"><ul role="menubar" aria-label="Menu"><li role="menuitem"><span id="how_to_use_knowledge_base-d2506e11-mi" data-tocid="how_to_use_knowledge_base-d2506e11" data-state="leaf" class=" topicref " data-id="how_to_use_knowledge_base"><span class="title"><a href="../topics/how_to_use_knowledge_base.html">How to use Knowledge Base </a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="digital_banking_main_solution-d2506e23-mi" data-tocid="digital_banking_main_solution-d2506e23" data-state="not-ready" class=" topicref " data-id="digital_banking_main_solution"><span class="title"><a href="../topics/digital_banking_main_solution.html">Products</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="work_spaces_to_handle_tasks-d2506e505-mi" data-tocid="work_spaces_to_handle_tasks-d2506e505" data-state="not-ready" class=" topicref " data-id="work_spaces_to_handle_tasks"><span class="title"><a href="../topics/work_spaces_to_handle_tasks.html">Workspaces </a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="roles-d2506e1432-mi" data-tocid="roles-d2506e1432" data-state="not-ready" class=" topicref " data-id="roles"><span class="title"><a href="../topics/roles.html">Roles</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="rights_to_do_tasks-d2506e1662-mi" data-tocid="rights_to_do_tasks-d2506e1662" data-state="not-ready" class=" topicref " data-id="rights_to_do_tasks"><span class="title"><a href="../topics/rights_to_do_tasks.html">Rights to do Tasks</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="tasks-d2506e1703-mi" data-tocid="tasks-d2506e1703" data-state="not-ready" class=" topicref " data-id="tasks"><span class="title"><a href="../topics/tasks.html">Tasks: T</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="functions_or_steps-d2506e2043-mi" data-tocid="functions_or_steps-d2506e2043" data-state="not-ready" class=" topicref " data-id="functions_or_steps"><span class="title"><a href="../topics/functions_or_steps.html">Task Steps: TS</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="data_and_dto_access_levels-d2506e2494-mi" data-tocid="data_and_dto_access_levels-d2506e2494" data-state="not-ready" class=" topicref " data-id="data_and_dto_access_levels"><span class="title"><a href="../topics/data_and_dto_access_levels.html">Data Access Levels</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="dto_sources-d2506e2530-mi" data-tocid="dto_sources-d2506e2530" data-state="not-ready" class=" topicref " data-id="dto_sources"><span class="title"><a href="../topics/dto_sources.html">DTO </a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="data_sources-d2506e3213-mi" data-tocid="data_sources-d2506e3213" data-state="not-ready" class=" topicref " data-id="data_sources"><span class="title"><a href="../topics/data_sources.html">Data and their Sources</a></span></span></li><li role="menuitem"><span id="glossary-d2506e3452-mi" data-tocid="glossary-d2506e3452" data-state="leaf" class=" topicref " data-id="glossary"><span class="title"><a href="../topics/glossary.html">Glossary</a></span></span></li></ul></nav>
+                
+                
+            </div>
+        </div>
+    </div>
+</header>
+        
+        
+         
+        
+        <div class=" wh_search_input navbar-form wh_topic_page_search search " role="form">
+            
+            
+            
+            <form id="searchForm" method="get" role="search" action="../search.html"><div><input type="search" placeholder="Search " class="wh_search_textfield" id="textToSearch" name="searchQuery" aria-label="Search query" required="required"/><button type="submit" class="wh_search_button" aria-label="Search"><span class="search_input_text">Search</span></button></div></form>
+            
+            
+            
+        </div>
+        
+        <div class="container-fluid navbar-expand-md" id="wh_topic_container">
+            <div class="row">
+
+                <nav class="wh_tools d-print-none" aria-label="Tools">
+                    
+                    <div data-tooltip-position="bottom" class=" wh_breadcrumb "><ol class="d-print-none"><li><span class="home"><a href="../index.html"><span>Home</span></a></span></li><li><div class="topicref" data-id="tasks"><div class="title"><a href="../topics/tasks.html">Tasks: T</a><div class="wh-tooltip"><p class="shortdesc">Task is a specific result that may be reached by completing some steps or actions.         From the technical point of view we consider for task a specific container with combination         of steps or functions that are need to be undertaken in order to achieve a specific state or         result. </p></div></div></div></li><li><div class="topicref" data-id="functional_tasks"><div class="title"><a href="../topics/functional_tasks.html">Functional tasks: FT</a></div></div></li><li><div class="topicref" data-id="business_tasks"><div class="title"><a href="../topics/business_tasks.html">Business Tasks: FT03</a></div></div></li><li><div class="topicref" data-id="untitled19"><div class="title"><a href="../topics/untitled19.html">Domestic Account managing tasks: FT03.01</a><div class="wh-tooltip"><p class="shortdesc">Account is a banking product. Bank provides to its clients accounts in local and         foreign currency. Clients manage all account tasks within specially designed Account UI page         within clients Workspace.</p></div></div></div></li><li><div class="topicref" data-id="business_tasks_1"><div class="title"><a href="../topics/business_tasks_1.html">Making New Payment: FT03.01.01</a><div class="wh-tooltip"><p class="shortdesc">Making New payment is a task that may be handled within ….….….….</p></div></div></div></li><li class="active"><div class="topicref" data-id="functional_analysis_confluence"><div class="title"><a href="../topics/functional_analysis_confluence.html">Functional Analysis (Confluence)</a></div></div></li></ol></div>
+                    
+                    
+                    
+                    <div class="wh_right_tools">
+                        <button class="wh_hide_highlight" aria-label="Toggle search highlights" title="Toggle search highlights"></button>
+                        <button class="webhelp_expand_collapse_sections" data-next-state="collapsed" aria-label="Collapse sections" title="Collapse sections"></button>
+                        
+                        
+                        
+                        
+                        <div class=" wh_print_link print d-none d-md-inline-block "><button onClick="window.print()" title="Print this page" aria-label="Print this page"></button></div>
+                        
+                        <button type="button" id="wh_toc_button" class="custom-toggler navbar-toggler collapsed wh_toggle_button navbar-light" aria-expanded="false" aria-label="Toggle publishing table of content" aria-controls="wh_publication_toc">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                    </div>
+                    
+                </nav>
+            </div>
+            
+            
+            
+            
+            <div class="wh_content_area">
+                <div class="row">
+                    
+                        <nav id="wh_publication_toc" class="col-lg-3 col-md-3 col-sm-12 d-md-block d-none d-print-none" aria-label="Table of Contents Container">
+                            <div id="wh_publication_toc_content">
+	                            <button id="wh_close_publication_toc_button" class="close-toc-button d-none" aria-label="Toggle publishing table of content" aria-controls="wh_publication_toc" aria-expanded="true">
+		                            <span class="close-toc-icon-container">
+		                                <span class="close-toc-icon"></span>     
+		                            </span>
+		                        </button>
+		                        
+                            	<div class=" wh_publication_toc " data-tooltip-position="right"><span class="expand-button-action-labels"><span id="button-expand-action" role="button" aria-label="Expand"></span><span id="button-collapse-action" role="button" aria-label="Collapse"></span><span id="button-pending-action" role="button" aria-label="Pending"></span></span><ul role="tree" aria-label="Table of Contents"><li role="treeitem" aria-expanded="true"><div data-tocid="tasks-d2506e1703" class="topicref" data-id="tasks" data-state="expanded"><span role="button" tabindex="0" aria-labelledby="button-collapse-action tasks-d2506e1703-link" class="wh-expand-btn"></span><div class="title"><a href="../topics/tasks.html" id="tasks-d2506e1703-link">Tasks: T</a><div class="wh-tooltip"><p class="shortdesc">Task is a specific result that may be reached by completing some steps or actions.         From the technical point of view we consider for task a specific container with combination         of steps or functions that are need to be undertaken in order to achieve a specific state or         result. </p></div></div></div><ul role="group" class="navbar-nav nav-list"><li role="treeitem"><div data-tocid="untitled10-d2506e1714" class="topicref" data-id="untitled10" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../topics/untitled10.html" id="untitled10-d2506e1714-link">Task types</a><div class="wh-tooltip"><p class="shortdesc">Task types were defined to ease understanding their business nature. From the         business point of view we may divide all possible tasks into separate domains: Functional         Tasks and Product tasks. Tasks are divided into types within each domain and may be divided         into subtypes.</p></div></div></div></li><li role="treeitem" aria-expanded="false"><div data-tocid="product_tasks-d2506e1725" class="topicref" data-id="product_tasks" data-state="not-ready"><span role="button" tabindex="0" aria-labelledby="button-expand-action product_tasks-d2506e1725-link" class="wh-expand-btn"></span><div class="title"><a href="../topics/product_tasks.html" id="product_tasks-d2506e1725-link">Product tasks: PT</a></div></div></li><li role="treeitem" aria-expanded="true"><div data-tocid="functional_tasks-d2506e1851" class="topicref" data-id="functional_tasks" data-state="expanded"><span role="button" tabindex="0" aria-labelledby="button-collapse-action functional_tasks-d2506e1851-link" class="wh-expand-btn"></span><div class="title"><a href="../topics/functional_tasks.html" id="functional_tasks-d2506e1851-link">Functional tasks: FT</a></div></div><ul role="group" class="navbar-nav nav-list"><li role="treeitem"><div data-tocid="admin_tasks-d2506e1859" class="topicref" data-id="admin_tasks" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../topics/admin_tasks.html" id="admin_tasks-d2506e1859-link">Admin Tasks: FT01</a></div></div></li><li role="treeitem"><div data-tocid="security_tasks-d2506e1867" class="topicref" data-id="security_tasks" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../topics/security_tasks.html" id="security_tasks-d2506e1867-link">Security Tasks: FT02</a></div></div></li><li role="treeitem" aria-expanded="true"><div data-tocid="business_tasks-d2506e1875" class="topicref" data-id="business_tasks" data-state="expanded"><span role="button" tabindex="0" aria-labelledby="button-collapse-action business_tasks-d2506e1875-link" class="wh-expand-btn"></span><div class="title"><a href="../topics/business_tasks.html" id="business_tasks-d2506e1875-link">Business Tasks: FT03</a></div></div><ul role="group" class="navbar-nav nav-list"><li role="treeitem" aria-expanded="true"><div data-tocid="untitled19-d2506e1883" class="topicref" data-id="untitled19" data-state="expanded"><span role="button" tabindex="0" aria-labelledby="button-collapse-action untitled19-d2506e1883-link" class="wh-expand-btn"></span><div class="title"><a href="../topics/untitled19.html" id="untitled19-d2506e1883-link">Domestic Account managing tasks: FT03.01</a><div class="wh-tooltip"><p class="shortdesc">Account is a banking product. Bank provides to its clients accounts in local and         foreign currency. Clients manage all account tasks within specially designed Account UI page         within clients Workspace.</p></div></div></div><ul role="group" class="navbar-nav nav-list"><li role="treeitem"><div data-tocid="functional_tasks_list-d2506e1894" class="topicref" data-id="functional_tasks_list" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../topics/functional_tasks_list.html" id="functional_tasks_list-d2506e1894-link">Domestic Account managing tasks list</a></div></div></li><li role="treeitem" aria-expanded="true"><div data-tocid="business_tasks_1-d2506e1902" class="topicref" data-id="business_tasks_1" data-state="expanded"><span role="button" tabindex="0" aria-labelledby="button-collapse-action business_tasks_1-d2506e1902-link" class="wh-expand-btn"></span><div class="title"><a href="../topics/business_tasks_1.html" id="business_tasks_1-d2506e1902-link">Making New Payment: FT03.01.01</a><div class="wh-tooltip"><p class="shortdesc">Making New payment is a task that may be handled within ….….….….</p></div></div></div><ul role="group" class="navbar-nav nav-list"><li role="treeitem" class="active"><div data-tocid="functional_analysis_confluence-d2506e1913" class="topicref" data-id="functional_analysis_confluence" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../topics/functional_analysis_confluence.html" id="functional_analysis_confluence-d2506e1913-link">Functional Analysis (Confluence)</a></div></div></li></ul></li><li role="treeitem"><div data-tocid="making_donations-d2506e1921" class="topicref" data-id="making_donations" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../topics/making_donations.html" id="making_donations-d2506e1921-link">Making Donations: FT03.01.02</a></div></div></li><li role="treeitem"><div data-tocid="making_mobile_payments-d2506e1929" class="topicref" data-id="making_mobile_payments" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../topics/making_mobile_payments.html" id="making_mobile_payments-d2506e1929-link">Making Mobile Payments: FT03.01.03</a></div></div></li><li role="treeitem"><div data-tocid="setting_standing_orders-d2506e1937" class="topicref" data-id="setting_standing_orders" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../topics/setting_standing_orders.html" id="setting_standing_orders-d2506e1937-link">Setting Standing Orders: FT03.01.04</a></div></div></li><li role="treeitem"><div data-tocid="setting_direct_debits_sipo-d2506e1945" class="topicref" data-id="setting_direct_debits_sipo" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../topics/setting_direct_debits_sipo.html" id="setting_direct_debits_sipo-d2506e1945-link">Setting Direct Debits / SIPO: FT03.01.05</a></div></div></li><li role="treeitem"><div data-tocid="seaching_for_transactions_history-d2506e1953" class="topicref" data-id="seaching_for_transactions_history" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../topics/seaching_for_transactions_history.html" id="seaching_for_transactions_history-d2506e1953-link">Seaching for transactions history: FT03.01.06</a></div></div></li><li role="treeitem"><div data-tocid="making_transaction_statements-d2506e1961" class="topicref" data-id="making_transaction_statements" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../topics/making_transaction_statements.html" id="making_transaction_statements-d2506e1961-link">Making transaction Statements: FT03.01.07</a></div></div></li><li role="treeitem"><div data-tocid="setting_product_configuration-d2506e1969" class="topicref" data-id="setting_product_configuration" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../topics/setting_product_configuration.html" id="setting_product_configuration-d2506e1969-link">Setting Account configuration: FT03.01.08</a></div></div></li><li role="treeitem"><div data-tocid="reviewing_documents_requests-d2506e1977" class="topicref" data-id="reviewing_documents_requests" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../topics/reviewing_documents_requests.html" id="reviewing_documents_requests-d2506e1977-link">Reviewing Documents &amp; Requests: FT03.01.09</a></div></div></li><li role="treeitem"><div data-tocid="printing_account_history-d2506e1986" class="topicref" data-id="printing_account_history" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../topics/printing_account_history.html" id="printing_account_history-d2506e1986-link">Printing account history: FT03.01.10</a></div></div></li><li role="treeitem"><div data-tocid="downloading_account_history-d2506e1994" class="topicref" data-id="downloading_account_history" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../topics/downloading_account_history.html" id="downloading_account_history-d2506e1994-link">Downloading account history: FT03.01.11</a></div></div></li><li role="treeitem"><div data-tocid="contacting_help_desk-d2506e2002" class="topicref" data-id="contacting_help_desk" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../topics/contacting_help_desk.html" id="contacting_help_desk-d2506e2002-link">Contacting Help Desk: FT03.01.12</a></div></div></li></ul></li></ul></li><li role="treeitem"><div data-tocid="comunication_tasks-d2506e2010" class="topicref" data-id="comunication_tasks" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../topics/comunication_tasks.html" id="comunication_tasks-d2506e2010-link">Comunication Tasks</a></div></div></li><li role="treeitem"><div data-tocid="report_and_analysys_tasks-d2506e2018" class="topicref" data-id="report_and_analysys_tasks" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../topics/report_and_analysys_tasks.html" id="report_and_analysys_tasks-d2506e2018-link">Report and Analysys Tasks</a></div></div></li><li role="treeitem"><div data-tocid="management_tasks-d2506e2026" class="topicref" data-id="management_tasks" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../topics/management_tasks.html" id="management_tasks-d2506e2026-link">Management Tasks</a></div></div></li><li role="treeitem"><div data-tocid="dbos_maintenance_tasks-d2506e2034" class="topicref" data-id="dbos_maintenance_tasks" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../topics/dbos_maintenance_tasks.html" id="dbos_maintenance_tasks-d2506e2034-link">DBOS Maintenance Tasks</a></div></div></li></ul></li></ul></li></ul></div>
+		                        
+                            </div>
+                        </nav>
+                    
+                    
+                    <div class="col-lg-7 col-md-9 col-sm-12" id="wh_topic_body">
+                        
+                        <div class=" wh_topic_content body "><main role="main"><article class="- topic/topic topic" role="article" aria-labelledby="ariaid-title1">
+    <h1 class="- topic/title title topictitle1" id="ariaid-title1">Functional Analysis (Confluence)</h1>
+    <div class="- topic/body body">
+        <div class="- topic/bodydiv bodydiv"><section class="- topic/section section" id="functional_analysis_confluence__CreateLocalPayment_Domestic_FunctionalAnalysis-Userstorydescription" data-ofbid="functional_analysis_confluence__CreateLocalPayment_Domestic_FunctionalAnalysis-Userstorydescription"><h2 class="- topic/title title sectiontitle">User story description</h2>
+                
+                <p class="- topic/p p">As a User, I want to create a domestic payment order to transfer money from my
+                    account to another account within the same country, either by filling in an
+                    empty form or using a payment template.</p>
+            </section><div class="- topic/p p">
+                <figure class="- topic/fig fig fignone" id="functional_analysis_confluence__fig_kkf_gbv_3hc" data-ofbid="functional_analysis_confluence__fig_kkf_gbv_3hc"><figcaption data-caption-side="top" class="- topic/title title figcap"><span class="figtitleprefix fig--title-label">Figure<span class="fig--title-label-number"> 1</span><span class="fig--title-label-punctuation">. </span></span><span class="fig--title">Domestic payment screens flow diagram</span></figcaption>
+                    
+                    <br/><img class="- topic/image image" id="functional_analysis_confluence__image_lkf_gbv_3hc" src="../images/domestic_payment_flow_diagram.png"/><br/>
+                </figure>
+            </div><section class="- topic/section section" id="functional_analysis_confluence__CreateLocalPayment_Domestic_FunctionalAnalysis-CreateLocalPaymentForm" data-ofbid="functional_analysis_confluence__CreateLocalPayment_Domestic_FunctionalAnalysis-CreateLocalPaymentForm"><h2 class="- topic/title title sectiontitle">Create Local Payment Form</h2>
+                
+                <p class="- topic/p p">The form contains all necessary fields for creating a domestic payment:</p>
+                <ul class="- topic/ul ul" id="functional_analysis_confluence__ul_ojx_c1v_3hc" data-ofbid="functional_analysis_confluence__ul_ojx_c1v_3hc">
+                    <li class="- topic/li li">Source account selection</li>
+                    <li class="- topic/li li">Beneficiary account information</li>
+                    <li class="- topic/li li">Amount and currency</li>
+                    <li class="- topic/li li">Payment details</li>
+                    <li class="- topic/li li">Value date</li>
+                    <li class="- topic/li li">Payment priority</li>
+                </ul>
+            </section><div class="- topic/p p">
+                <div class="table-container"><table class="- topic/table table frame-all" id="functional_analysis_confluence__table_c44_ncv_3hc" data-ofbid="functional_analysis_confluence__table_c44_ncv_3hc" data-cols="6"><caption class="- topic/title title tablecap" data-caption-side="top" data-is-repeated="true"><span class="table--title-label">Table<span class="table--title-label-number"> 1</span><span class="table--title-label-punctuation">. </span></span><span class="table--title">Actions</span></caption><colgroup><col/><col/><col/><col/><col/><col/></colgroup><thead class="- topic/thead thead">
+                            <tr class="- topic/row">
+                                <th class="- topic/entry entry colsep-1 rowsep-1" id="functional_analysis_confluence__table_c44_ncv_3hc__entry__1">Action</th>
+                                <th class="- topic/entry entry colsep-1 rowsep-1" id="functional_analysis_confluence__table_c44_ncv_3hc__entry__2">Note </th>
+                                <th class="- topic/entry entry colsep-1 rowsep-1" id="functional_analysis_confluence__table_c44_ncv_3hc__entry__3">Validation</th>
+                                <th class="- topic/entry entry colsep-1 rowsep-1" id="functional_analysis_confluence__table_c44_ncv_3hc__entry__4">Is primary action </th>
+                                <th class="- topic/entry entry colsep-1 rowsep-1" id="functional_analysis_confluence__table_c44_ncv_3hc__entry__5">Order</th>
+                                <th class="- topic/entry entry colsep-0 rowsep-1" id="functional_analysis_confluence__table_c44_ncv_3hc__entry__6">Condition </th>
+                            </tr>
+                        </thead><tbody class="- topic/tbody tbody">
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__1">Create Payment</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__2">Initiates new domestic payment</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__3">User has operation 313 with Create rights</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__4">Yes</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__5">1</td>
+                                <td class="- topic/entry entry colsep-0 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__6">Account group = 1 Current account</td>
+                            </tr>
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__1">Select Template</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__2">Opens template selection</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__3">User has at least one saved template</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__4">No</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__5">2</td>
+                                <td class="- topic/entry entry colsep-0 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__6">Templates exist</td>
+                            </tr>
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__1">Cancel</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__2">Cancels payment creation</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__3">Confirmation dialog if form has data</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__4">No</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__5">3</td>
+                                <td class="- topic/entry entry colsep-0 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__6">N/A</td>
+                            </tr>
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__1">Save as Template</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__2">Saves current form as template</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__3">Valid form data</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__4">No</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__5">4</td>
+                                <td class="- topic/entry entry colsep-0 rowsep-1" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__6">Form validation passed</td>
+                            </tr>
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-0" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__1">Sign</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-0" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__2">Initiates payment signing</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-0" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__3">All mandatory fields filled and valid</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-0" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__4">Yes</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-0" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__5">5</td>
+                                <td class="- topic/entry entry colsep-0 rowsep-0" headers="functional_analysis_confluence__table_c44_ncv_3hc__entry__6">Form validation passe</td>
+                            </tr>
+                        </tbody></table></div>
+            </div><div class="- topic/p p">
+                <div class="table-container"><table class="- topic/table table frame-all" id="functional_analysis_confluence__table_i4x_vdv_3hc" data-ofbid="functional_analysis_confluence__table_i4x_vdv_3hc" data-cols="7"><caption class="- topic/title title tablecap" data-caption-side="top" data-is-repeated="true"><span class="table--title-label">Table<span class="table--title-label-number"> 2</span><span class="table--title-label-punctuation">. </span></span><span class="table--title">UI mapping </span></caption><colgroup><col/><col/><col/><col/><col/><col/><col/></colgroup><thead class="- topic/thead thead">
+                            <tr class="- topic/row">
+                                <th class="- topic/entry entry colsep-1 rowsep-1" id="functional_analysis_confluence__table_i4x_vdv_3hc__entry__1">Attribute name </th>
+                                <th class="- topic/entry entry colsep-1 rowsep-1" id="functional_analysis_confluence__table_i4x_vdv_3hc__entry__2">DBOS</th>
+                                <th class="- topic/entry entry colsep-1 rowsep-1" id="functional_analysis_confluence__table_i4x_vdv_3hc__entry__3">Mandatory</th>
+                                <th class="- topic/entry entry colsep-1 rowsep-1" id="functional_analysis_confluence__table_i4x_vdv_3hc__entry__4">UX component</th>
+                                <th class="- topic/entry entry colsep-1 rowsep-1" id="functional_analysis_confluence__table_i4x_vdv_3hc__entry__5">GUI rules </th>
+                                <th class="- topic/entry entry colsep-1 rowsep-1" id="functional_analysis_confluence__table_i4x_vdv_3hc__entry__6">Other rules </th>
+                                <th class="- topic/entry entry colsep-0 rowsep-1" id="functional_analysis_confluence__table_i4x_vdv_3hc__entry__7">Note </th>
+                            </tr>
+                        </thead><tbody class="- topic/tbody tbody">
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__1">Source Account</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__2">TPM DomesticPaymentOrder.debitAccount</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__3">Y</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__4">Dropdown</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__5">Account selector</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__6">Only active accounts with View rights</td>
+                                <td class="- topic/entry entry colsep-0 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__7">Current accounts only</td>
+                            </tr>
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__1">Beneficiary Account</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__2">TPM DomesticPaymentOrder.creditAccount</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__3">Y</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__4">Input</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__5">Text field, 24 chars</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__6">IBAN format validation</td>
+                                <td class="- topic/entry entry colsep-0 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__7">Convert to uppercase</td>
+                            </tr>
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__1">Beneficiary Name</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__2">TPM DomesticPaymentOrder.partnerName</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__3">Y</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__4">Input</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__5">Text field, 70 chars</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__6">Alphanumeric + special chars</td>
+                                <td class="- topic/entry entry colsep-0 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__7"></td>
+                            </tr>
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__1">Amount</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__2">TPM DomesticPaymentOrder.amount</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__3">Y</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__4">Input</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__5">Numeric field</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__6">Positive values only, 2 decimals</td>
+                                <td class="- topic/entry entry colsep-0 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__7"></td>
+                            </tr>
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__1">Currency</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__2">TPM DomesticPaymentOrder.currency</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__3">Y</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__4">Display/Dropdown</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__5">Read-only if single currency</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__6">ISO currency codes</td>
+                                <td class="- topic/entry entry colsep-0 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__7"></td>
+                            </tr>
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__1">Payment Reference</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__2">TPM DomesticPaymentOrder.paymentReference</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__3">N</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__4">Input</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__5">Text field, 140 chars</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__6">Alphanumeric</td>
+                                <td class="- topic/entry entry colsep-0 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__7"></td>
+                            </tr>
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__1">Value Date</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__2">TPM DomesticPaymentOrder.valueDate</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__3">Y</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__4">DatePicker</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__5">Calendar widget</td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__6">Min: today, Max: today + 90 days</td>
+                                <td class="- topic/entry entry colsep-0 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__7"></td>
+                            </tr>
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__1"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__2"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__3"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__4"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__5"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__6"></td>
+                                <td class="- topic/entry entry colsep-0 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__7"></td>
+                            </tr>
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__1"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__2"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__3"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__4"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__5"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__6"></td>
+                                <td class="- topic/entry entry colsep-0 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__7"></td>
+                            </tr>
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__1"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__2"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__3"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__4"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__5"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__6"></td>
+                                <td class="- topic/entry entry colsep-0 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__7"></td>
+                            </tr>
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__1"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__2"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__3"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__4"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__5"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__6"></td>
+                                <td class="- topic/entry entry colsep-0 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__7"></td>
+                            </tr>
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__1"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__2"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__3"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__4"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__5"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__6"></td>
+                                <td class="- topic/entry entry colsep-0 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__7"></td>
+                            </tr>
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__1"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__2"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__3"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__4"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__5"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__6"></td>
+                                <td class="- topic/entry entry colsep-0 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__7"></td>
+                            </tr>
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__1"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__2"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__3"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__4"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__5"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__6"></td>
+                                <td class="- topic/entry entry colsep-0 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__7"></td>
+                            </tr>
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__1"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__2"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__3"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__4"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__5"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__6"></td>
+                                <td class="- topic/entry entry colsep-0 rowsep-1" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__7"></td>
+                            </tr>
+                            <tr class="- topic/row">
+                                <td class="- topic/entry entry colsep-1 rowsep-0" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__1"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-0" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__2"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-0" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__3"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-0" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__4"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-0" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__5"></td>
+                                <td class="- topic/entry entry colsep-1 rowsep-0" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__6"></td>
+                                <td class="- topic/entry entry colsep-0 rowsep-0" headers="functional_analysis_confluence__table_i4x_vdv_3hc__entry__7"></td>
+                            </tr>
+                        </tbody></table></div>
+            </div><strong class="+ topic/ph hi-d/b ph b">Actors</strong><ul class="- topic/ul ul" id="functional_analysis_confluence__ul_rjx_c1v_3hc" data-ofbid="functional_analysis_confluence__ul_rjx_c1v_3hc">
+                <li class="- topic/li li">User</li>
+                <li class="- topic/li li">System (DBOS)</li>
+                <li class="- topic/li li">External Payment System</li>
+            </ul><strong class="+ topic/ph hi-d/b ph b">Additional information</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_sjx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_sjx_c1v_3hc">
+                <li class="- topic/li li">Supported currencies: Local currency and major international currencies as
+                    configured</li>
+                <li class="- topic/li li">Operation supports certification and signing rules validation</li>
+                <li class="- topic/li li">Operation requires authentication and proper authorization</li>
+                <li class="- topic/li li">Balance validation is performed in real-time</li>
+                <li class="- topic/li li">Exchange rates are fetched if multi-currency payment</li>
+                <li class="- topic/li li">Payment limits apply based on User profile and account type</li>
+                <li class="- topic/li li">Verification of Payee (VoP) may be performed if enabled</li>
+                <li class="- topic/li li">All successful and failed attempts are logged in audit journal</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">Triggers</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_tjx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_tjx_c1v_3hc">
+                <li class="- topic/li li">User selects "Create Local Payment" from Payment Overview screen → Main
+                    Flow</li>
+                <li class="- topic/li li">User selects "Create Payment" from Home screen quick actions → Main Flow</li>
+                <li class="- topic/li li">User selects domestic payment template from Template List → Template Flow</li>
+                <li class="- topic/li li">User uses "Repeat Payment" from Payment Detail screen → Repeat Payment Flow</li>
+                <li class="- topic/li li">User uses "Repeat Payment" from Transaction Detail screen → Repeat Transaction
+                    Flow</li>
+                <li class="- topic/li li">User initiates payment from Account Detail screen → Context-aware Flow</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">Pre-conditions</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_ujx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_ujx_c1v_3hc">
+                <li class="- topic/li li">User is authenticated and logged into the system</li>
+                <li class="- topic/li li">User has operation 313 (Create Payment) with Create rights for at least one
+                    current account</li>
+                <li class="- topic/li li">User has at least one active account eligible for domestic payments</li>
+                <li class="- topic/li li">System integration with payment processing is operational</li>
+                <li class="- topic/li li">User's session is valid and not expired</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">Result - success</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_vjx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_vjx_c1v_3hc">
+                <li class="- topic/li li">Payment instruction is validated and saved successfully with status
+                    "FOR_SIGN"</li>
+                <li class="- topic/li li">Success message is displayed with appropriate redirection options</li>
+                <li class="- topic/li li">User is redirected based on configuration (payment list or payment detail)</li>
+                <li class="- topic/li li">New actions become available: View Payment, Create Another, Save as
+                    Template</li>
+                <li class="- topic/li li">Payment information is sent to external payment system</li>
+                <li class="- topic/li li">Transaction is logged in audit journal with success status</li>
+                <li class="- topic/li li">If template was created, it's available in template list</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">Result - failed</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_wjx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_wjx_c1v_3hc">
+                <li class="- topic/li li">Validation errors are displayed inline on the form</li>
+                <li class="- topic/li li">Failed attempt is logged in audit journal</li>
+                <li class="- topic/li li">Payment instruction is not saved in database</li>
+                <li class="- topic/li li">System displays appropriate error message based on failure type</li>
+                <li class="- topic/li li">User remains on payment form with entered data preserved</li>
+                <li class="- topic/li li">If integration failure, system informs about unavailability but allows
+                    retry</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">Main flow</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_xjx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_xjx_c1v_3hc">
+                <li class="- topic/li li">System validates User's access rights and entitlements <strong class="+ topic/ph hi-d/b ph b">(E1)</strong></li>
+                <li class="- topic/li li">System displays Create Local Payment form with empty fields <strong class="+ topic/ph hi-d/b ph b">(A1, A2)</strong></li>
+                <li class="- topic/li li">System pre-fills source account if only one eligible account exists
+                    <strong class="+ topic/ph hi-d/b ph b">(A3)</strong></li>
+                <li class="- topic/li li">User fills in the payment form:<ul class="- topic/ul ul" id="functional_analysis_confluence__ul_yjx_c1v_3hc" data-ofbid="functional_analysis_confluence__ul_yjx_c1v_3hc">
+                        <li class="- topic/li li">Selects source account (if not pre-filled) <strong class="+ topic/ph hi-d/b ph b">(Ext1)</strong></li>
+                        <li class="- topic/li li">Enters beneficiary account number <strong class="+ topic/ph hi-d/b ph b">(A4)</strong></li>
+                        <li class="- topic/li li">Enters beneficiary name</li>
+                        <li class="- topic/li li">Enters payment amount <strong class="+ topic/ph hi-d/b ph b">(A5)</strong></li>
+                        <li class="- topic/li li">Selects/confirms currency</li>
+                        <li class="- topic/li li">Enters payment reference (optional)</li>
+                        <li class="- topic/li li">Selects value date <strong class="+ topic/ph hi-d/b ph b">(A6)</strong></li>
+                        <li class="- topic/li li">Selects payment priority <strong class="+ topic/ph hi-d/b ph b">(A7)</strong></li>
+                    </ul></li>
+                <li class="- topic/li li">System performs real-time validations:<ul class="- topic/ul ul" id="functional_analysis_confluence__ul_zjx_c1v_3hc" data-ofbid="functional_analysis_confluence__ul_zjx_c1v_3hc">
+                        <li class="- topic/li li">UC: Validate Account Number Format</li>
+                        <li class="- topic/li li">UC: Check Account Balance</li>
+                        <li class="- topic/li li">UC: Validate Payment Limits <strong class="+ topic/ph hi-d/b ph b">(E2)</strong></li>
+                        <li class="- topic/li li">UC: Check Verification of Payee (if enabled) <strong class="+ topic/ph hi-d/b ph b">(A8)</strong></li>
+                    </ul></li>
+                <li class="- topic/li li">User submits the payment form <strong class="+ topic/ph hi-d/b ph b">(A9)</strong></li>
+                <li class="- topic/li li">System displays payment summary screen</li>
+                <li class="- topic/li li">User confirms payment details <strong class="+ topic/ph hi-d/b ph b">(A10)</strong></li>
+                <li class="- topic/li li">System initiates signing process:<ul class="- topic/ul ul" id="functional_analysis_confluence__ul_akx_c1v_3hc" data-ofbid="functional_analysis_confluence__ul_akx_c1v_3hc">
+                        <li class="- topic/li li">UC: Sign Active Instruction <strong class="+ topic/ph hi-d/b ph b">(E3)</strong></li>
+                    </ul></li>
+                <li class="- topic/li li">System saves payment instruction with status "FOR_SIGN"</li>
+                <li class="- topic/li li">System sends payment to processing <strong class="+ topic/ph hi-d/b ph b">(E4)</strong></li>
+                <li class="- topic/li li">System displays success message with payment details</li>
+                <li class="- topic/li li">System redirects User based on configuration</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">Alternative flows</strong><strong class="+ topic/ph hi-d/b ph b">A1 Creating from template</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_bkx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_bkx_c1v_3hc">
+                <li class="- topic/li li">→ User selects template from Template List</li>
+                <li class="- topic/li li">System loads template data</li>
+                <li class="- topic/li li">System pre-fills form with template values</li>
+                <li class="- topic/li li">→ continues from M.4</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">A2 Repeat payment</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_ckx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_ckx_c1v_3hc">
+                <li class="- topic/li li">→ User initiates repeat from existing payment</li>
+                <li class="- topic/li li">System loads original payment data</li>
+                <li class="- topic/li li">System pre-fills form excluding value date</li>
+                <li class="- topic/li li">System sets value date to current date</li>
+                <li class="- topic/li li">→ continues from M.4</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">A3 Multiple eligible accounts</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_dkx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_dkx_c1v_3hc">
+                <li class="- topic/li li">→ continues from M.3 when User has multiple accounts</li>
+                <li class="- topic/li li">System displays account selector without pre-selection</li>
+                <li class="- topic/li li">User must select source account</li>
+                <li class="- topic/li li">→ continues from M.4</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">A4 Invalid account number format</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_ekx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_ekx_c1v_3hc">
+                <li class="- topic/li li">→ User enters invalid account format</li>
+                <li class="- topic/li li">System displays inline validation error</li>
+                <li class="- topic/li li">User corrects account number</li>
+                <li class="- topic/li li">→ continues from M.4</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">A5 Insufficient balance</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_fkx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_fkx_c1v_3hc">
+                <li class="- topic/li li">→ System detects insufficient funds</li>
+                <li class="- topic/li li">System displays balance warning</li>
+                <li class="- topic/li li">User can:<ul class="- topic/ul ul" id="functional_analysis_confluence__ul_gkx_c1v_3hc" data-ofbid="functional_analysis_confluence__ul_gkx_c1v_3hc">
+                        <li class="- topic/li li">Modify amount</li>
+                        <li class="- topic/li li">Select different account</li>
+                        <li class="- topic/li li">Cancel operation</li>
+                    </ul></li>
+                <li class="- topic/li li">→ continues from M.4 or ends</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">A6 Invalid value date</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_hkx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_hkx_c1v_3hc">
+                <li class="- topic/li li">→ User selects date outside allowed range</li>
+                <li class="- topic/li li">System displays date validation error</li>
+                <li class="- topic/li li">System shows allowed date range</li>
+                <li class="- topic/li li">User selects valid date</li>
+                <li class="- topic/li li">→ continues from M.4</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">A7 Urgent payment selected</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_ikx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_ikx_c1v_3hc">
+                <li class="- topic/li li">→ User selects Urgent priority</li>
+                <li class="- topic/li li">System displays urgent payment fee information</li>
+                <li class="- topic/li li">System recalculates total amount including fee</li>
+                <li class="- topic/li li">User confirms or changes priority</li>
+                <li class="- topic/li li">→ continues from M.5</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">A8 Verification of Payee negative result</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_jkx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_jkx_c1v_3hc">
+                <li class="- topic/li li">→ VoP check returns name mismatch</li>
+                <li class="- topic/li li">System displays warning with:<ul class="- topic/ul ul" id="functional_analysis_confluence__ul_kkx_c1v_3hc" data-ofbid="functional_analysis_confluence__ul_kkx_c1v_3hc">
+                        <li class="- topic/li li">Entered name</li>
+                        <li class="- topic/li li">Registered name</li>
+                    </ul></li>
+                <li class="- topic/li li">User can:<ul class="- topic/ul ul" id="functional_analysis_confluence__ul_lkx_c1v_3hc" data-ofbid="functional_analysis_confluence__ul_lkx_c1v_3hc">
+                        <li class="- topic/li li">Continue with payment</li>
+                        <li class="- topic/li li">Modify beneficiary details</li>
+                        <li class="- topic/li li">Cancel operation</li>
+                    </ul></li>
+                <li class="- topic/li li">→ continues based on User decision</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">A9 Save as template requested</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_mkx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_mkx_c1v_3hc">
+                <li class="- topic/li li">→ User selects "Save as Template" before submission</li>
+                <li class="- topic/li li">System displays template save dialog</li>
+                <li class="- topic/li li">User enters template name</li>
+                <li class="- topic/li li">System saves template</li>
+                <li class="- topic/li li">→ continues from M.6</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">A10 User requests modification</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_nkx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_nkx_c1v_3hc">
+                <li class="- topic/li li">→ User selects "Modify" on summary screen</li>
+                <li class="- topic/li li">System returns to payment form</li>
+                <li class="- topic/li li">Form retains all entered data</li>
+                <li class="- topic/li li">→ continues from M.4</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">Extended flows</strong><strong class="+ topic/ph hi-d/b ph b">Ext1 Choosing source account</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_okx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_okx_c1v_3hc">
+                <li class="- topic/li li">User clicks on account selector</li>
+                <li class="- topic/li li">System displays list of eligible accounts with:<ul class="- topic/ul ul" id="functional_analysis_confluence__ul_pkx_c1v_3hc" data-ofbid="functional_analysis_confluence__ul_pkx_c1v_3hc">
+                        <li class="- topic/li li">Account number</li>
+                        <li class="- topic/li li">Account name</li>
+                        <li class="- topic/li li">Available balance</li>
+                        <li class="- topic/li li">Currency</li>
+                    </ul></li>
+                <li class="- topic/li li">User selects account</li>
+                <li class="- topic/li li">System updates form with selected account</li>
+                <li class="- topic/li li">System updates currency if needed</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">Exception flows</strong><strong class="+ topic/ph hi-d/b ph b">E1 Insufficient rights</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_qkx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_qkx_c1v_3hc">
+                <li class="- topic/li li">System detects User lacks required permissions</li>
+                <li class="- topic/li li">System displays authorization error</li>
+                <li class="- topic/li li">System logs security event</li>
+                <li class="- topic/li li">UC ends</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">E2 Payment limit exceeded</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_rkx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_rkx_c1v_3hc">
+                <li class="- topic/li li">System detects amount exceeds User's limit</li>
+                <li class="- topic/li li">System displays limit error with:<ul class="- topic/ul ul" id="functional_analysis_confluence__ul_skx_c1v_3hc" data-ofbid="functional_analysis_confluence__ul_skx_c1v_3hc">
+                        <li class="- topic/li li">Current limit</li>
+                        <li class="- topic/li li">Entered amount</li>
+                    </ul></li>
+                <li class="- topic/li li">User must reduce amount or request limit increase</li>
+                <li class="- topic/li li">UC continues or ends based on User action</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">E3 Signing failure</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_tkx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_tkx_c1v_3hc">
+                <li class="- topic/li li">Signing process fails (wrong PIN, timeout, etc.)</li>
+                <li class="- topic/li li">System displays signing error</li>
+                <li class="- topic/li li">Payment remains in "FOR_SIGN" status</li>
+                <li class="- topic/li li">User can retry signing or cancel</li>
+                <li class="- topic/li li">UC ends</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">E4 Processing system unavailable</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_ukx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_ukx_c1v_3hc">
+                <li class="- topic/li li">External payment system is unavailable</li>
+                <li class="- topic/li li">System displays technical error</li>
+                <li class="- topic/li li">Payment saved with "PENDING" status</li>
+                <li class="- topic/li li">System will retry automatically</li>
+                <li class="- topic/li li">User informed about delayed processing</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">Sequence Diagram</strong><pre class="+ topic/pre pr-d/codeblock pre codeblock" id="functional_analysis_confluence__codeblock_k4w_ycv_3hc" data-ofbid="functional_analysis_confluence__codeblock_k4w_ycv_3hc"><code>User -&gt; System:nitiate Create Payment
+System -&gt; User: Display Payment Form
+User -&gt; System: Fill Payment Details
+System -&gt; System: Validate Fields
+System -&gt; ExternalSystem: Verify Payee (if enabled)
+ExternalSystem -&gt; System: Verification Result
+System -&gt; User: Display Summary
+User -&gt; System: Confirm Payment
+System -&gt; System: Create Instruction
+System -&gt; SigningService: Initiate Signing
+User -&gt; SigningService: Sign Payment
+SigningService -&gt; System: Signing Complete
+System -&gt; PaymentProcessor: Send Payment
+System -&gt; User: Display Success</code></pre>
+            <strong class="+ topic/ph hi-d/b ph b">Data Flow</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_xkx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_xkx_c1v_3hc">
+                <li class="- topic/li li">Input: User enters payment details</li>
+                <li class="- topic/li li">Validation: System validates all fields</li>
+                <li class="- topic/li li">Enrichment: System adds technical fields</li>
+                <li class="- topic/li li">Storage: Payment saved to database</li>
+                <li class="- topic/li li">Processing: Payment sent to processor</li>
+                <li class="- topic/li li">Output: Confirmation to User</li>
+            </ol><strong class="+ topic/ph hi-d/b ph b">API References</strong><ul class="- topic/ul ul" id="functional_analysis_confluence__ul_ykx_c1v_3hc" data-ofbid="functional_analysis_confluence__ul_ykx_c1v_3hc">
+                <li class="- topic/li li">POST /api/v1/payments/domestic - Create domestic payment</li>
+                <li class="- topic/li li">GET /api/v1/accounts/{id}/balance - Check account balance</li>
+                <li class="- topic/li li">POST /api/v1/payments/validate - Validate payment details</li>
+                <li class="- topic/li li">GET /api/v1/beneficiaries/verify - Verify payee details</li>
+                <li class="- topic/li li">POST /api/v1/templates - Save payment template</li>
+            </ul><strong class="+ topic/ph hi-d/b ph b">Integration Points</strong><ol class="- topic/ol ol" id="functional_analysis_confluence__ol_zkx_c1v_3hc" data-ofbid="functional_analysis_confluence__ol_zkx_c1v_3hc">
+                <li class="- topic/li li"><strong class="+ topic/ph hi-d/b ph b">SI-101</strong>: Account Balance Check</li>
+                <li class="- topic/li li"><strong class="+ topic/ph hi-d/b ph b">SI-102</strong>: Payment Validation Service</li>
+                <li class="- topic/li li"><strong class="+ topic/ph hi-d/b ph b">SI-103</strong>: Verification of Payee Service</li>
+                <li class="- topic/li li"><strong class="+ topic/ph hi-d/b ph b">SI-104</strong>: Payment Processing Gateway</li>
+                <li class="- topic/li li"><strong class="+ topic/ph hi-d/b ph b">SI-105</strong>: Audit Logging Service</li>
+            </ol><a class="- topic/xref xref" href="https://cz-support.finshape.com/confl/display/P2000984102/Create+Local+Payment+%28Domestic%29+-+Functional+Analysis" target="_blank" rel="external noopener">https://cz-support.finshape.com/confl/display/P2000984102/Create+Local+Payment+%28Domestic%29+-+Functional+Analysis</a></div>
+        <p class="- topic/p p"></p>
+    </div>
+</article></main></div>
+                        
+                        
+                        
+                        
+                        <div id="oxygen-feedback-frame-container">
+    <script id="feedback-init" defer="defer" src="https://feedback.oxygenxml.com/app/init/init.js?deploymentToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJkZXBsb3ltZW50SWQiOjEwNDh9.6mnbCF_dQtgbhknn2Z5jTLQc24LwZLF4Uhis0aEv4fn5ua9hNsB0COZsnowW613Y-Q3GDN6nNKlceNNfHLmo-g"><!-- --></script>
+</div>
+                        
+                    </div>
+                    
+                        <nav role="navigation" id="wh_topic_toc" aria-label="On this page" class="col-lg-2 d-none d-lg-block navbar d-print-none"> 
+                            <div id="wh_topic_toc_content">
+              	                <button id="wh_close_topic_toc_button" class="close-toc-button d-none" aria-label="Toggle topic table of content" aria-controls="wh_topic_toc" aria-expanded="true">
+		                            <span class="close-toc-icon-container">
+		                                <span class="close-toc-icon"></span>     
+		                            </span>
+		                        </button>
+		                        
+	                            <div class=" wh_topic_toc "><div class="wh_topic_label">On this page</div><ul><li class="section-item"><div class="section-title"><a href="#functional_analysis_confluence__CreateLocalPayment_Domestic_FunctionalAnalysis-Userstorydescription" data-tocid="functional_analysis_confluence__CreateLocalPayment_Domestic_FunctionalAnalysis-Userstorydescription">User story description</a></div></li><li class="section-item"><div class="section-title"><a href="#functional_analysis_confluence__CreateLocalPayment_Domestic_FunctionalAnalysis-CreateLocalPaymentForm" data-tocid="functional_analysis_confluence__CreateLocalPayment_Domestic_FunctionalAnalysis-CreateLocalPaymentForm">Create Local Payment Form</a></div></li></ul></div>
+	                        	
+                        	</div>
+                        </nav>
+                    
+                </div>
+            </div>
+            
+            
+            
+        </div> 
+        <footer class="navbar navbar-default wh_footer">
+  <div class=" footer-container mx-auto ">
+    Generated by <a class="oxyFooter" href="http://www.oxygenxml.com/xml_webhelp.html" target="_blank" rel="noopener">&lt;oXygen/&gt; XML WebHelp</a> - Evaluation Version
+  </div>
+</footer>
+        
+        <button id="go2top" class="d-print-none" title="Go to top">
+            <span class="oxy-icon oxy-icon-up"></span>
+        </button>
+        
+        <div id="modal_img_large" class="modal">
+            <span class="close oxy-icon oxy-icon-remove"></span>
+            <div id="modal_img_container"></div>
+            <div id="caption"></div>
+        </div>
+        
+        
+        
+    </body>
+</html>

@@ -6,10 +6,6 @@
                path="topics/digital_banking_main_solution.html"/>
    <appContext helpID="db_modules" path="topics/db_modules.html"/>
    <appContext helpID="infrastructure_module" path="topics/infrastructure_module.html"/>
-   <appContext helpID="infra_components_list" path="topics/infra_components_list.html"/>
-   <appContext helpID="infra_component_1" path="topics/infra_component_1.html"/>
-   <appContext helpID="infra_component_2" path="topics/infra_component_2.html"/>
-   <appContext helpID="infrs_component_3" path="topics/infrs_component_3.html"/>
    <appContext helpID="connectors_module" path="topics/connectors_module.html"/>
    <appContext helpID="connectors_list" path="topics/connectors_list.html"/>
    <appContext helpID="dbos_input_connectors" path="topics/dbos_input_connectors.html"/>
@@ -20,6 +16,10 @@
    <appContext helpID="dbos_output_connectors"
                path="topics/dbos_output_connectors.html"/>
    <appContext helpID="dbos_modul" path="topics/dbos_modul.html"/>
+   <appContext helpID="content_manager_cm" path="topics/content_manager_cm.html"/>
+   <appContext helpID="experience_builder_xpb"
+               path="topics/experience_builder_xpb.html"/>
+   <appContext helpID="four_eyes_fey" path="topics/four_eyes_fey.html"/>
    <appContext helpID="digital_identity" path="topics/digital_identity.html"/>
    <appContext helpID="introduction_to_this_user_guide"
                path="topics/introduction_to_this_user_guide.html"/>
@@ -49,35 +49,38 @@
    <appContext helpID="working_with_this_component"
                path="topics/working_with_this_component.html"/>
    <appContext helpID="troubleshooting" path="topics/troubleshooting.html"/>
-   <appContext helpID="sider" path="topics/sider.html"/>
-   <appContext helpID="entitlements" path="topics/entitlements.html"/>
+   <appContext helpID="distributions_gdc" path="topics/distributions_gdc.html"/>
    <appContext helpID="instant_data" path="topics/instant_data.html"/>
+   <appContext helpID="entitlements" path="topics/entitlements.html"/>
+   <appContext helpID="notifications_gnc" path="topics/notifications_gnc.html"/>
+   <appContext helpID="print_server_gps" path="topics/print_server_gps.html"/>
+   <appContext helpID="integration_hub_gde" path="topics/integration_hub_gde.html"/>
+   <appContext helpID="service_identity_provide_sider"
+               path="topics/service_identity_provide_sider.html"/>
    <appContext helpID="payments_instructions_tpm"
                path="topics/payments_instructions_tpm.html"/>
    <appContext helpID="exchange_rates_xcr" path="topics/exchange_rates_xcr.html"/>
-   <appContext helpID="notifications_gnc" path="topics/notifications_gnc.html"/>
-   <appContext helpID="distributions_gdc" path="topics/distributions_gdc.html"/>
-   <appContext helpID="service_proxy_spx" path="topics/service_proxy_spx.html"/>
-   <appContext helpID="four_eyes_fey" path="topics/four_eyes_fey.html"/>
-   <appContext helpID="experience_builder_xpb"
-               path="topics/experience_builder_xpb.html"/>
-   <appContext helpID="live_data_streaming_lds"
-               path="topics/live_data_streaming_lds.html"/>
-   <appContext helpID="integration_hub_gde" path="topics/integration_hub_gde.html"/>
-   <appContext helpID="ai_financial_assistant"
-               path="topics/ai_financial_assistant.html"/>
-   <appContext helpID="personalization_platform"
-               path="topics/personalization_platform.html"/>
-   <appContext helpID="onboarding" path="topics/onboarding.html"/>
-   <appContext helpID="graphql_server" path="topics/graphql_server.html"/>
-   <appContext helpID="content_management_system_cms"
-               path="topics/content_management_system_cms.html"/>
-   <appContext helpID="interaction_designer" path="topics/interaction_designer.html"/>
-   <appContext helpID="bpm_engine" path="topics/bpm_engine.html"/>
+   <appContext helpID="api_provider_openbank" path="topics/api_provider_openbank.html"/>
+   <appContext helpID="consent_registry_consentreg"
+               path="topics/consent_registry_consentreg.html"/>
+   <appContext helpID="third_party_registry_tpreg"
+               path="topics/third_party_registry_tpreg.html"/>
    <appContext helpID="applications_module" path="topics/applications_module.html"/>
-   <appContext helpID="app_component_1" path="topics/app_component_1.html"/>
-   <appContext helpID="app_component_2" path="topics/app_component_2.html"/>
-   <appContext helpID="app_component_3" path="topics/app_component_3.html"/>
+   <appContext helpID="admin_console_wac" path="topics/admin_console_wac.html"/>
+   <appContext helpID="starter_kit" path="topics/starter_kit.html"/>
+   <appContext helpID="tools" path="topics/tools.html"/>
+   <appContext helpID="alfons" path="topics/alfons.html"/>
+   <appContext helpID="flow_designer" path="topics/flow_designer.html"/>
+   <appContext helpID="camunda" path="topics/camunda.html"/>
+   <appContext helpID="configurator" path="topics/configurator.html"/>
+   <appContext helpID="sdk_for_ios_and_android"
+               path="topics/sdk_for_ios_and_android.html"/>
+   <appContext helpID="figma" path="topics/figma.html"/>
+   <appContext helpID="service_proxy" path="topics/service_proxy.html"/>
+   <appContext helpID="ci_cd" path="topics/ci_cd.html"/>
+   <appContext helpID="config_player" path="topics/config_player.html"/>
+   <appContext helpID="finshape_products_clients_pay_for"
+               path="topics/finshape_products_clients_pay_for.html"/>
    <appContext helpID="work_spaces_to_handle_tasks"
                path="topics/work_spaces_to_handle_tasks.html"/>
    <appContext helpID="bank_s_employee_app_ui"
@@ -114,6 +117,7 @@
    <appContext helpID="searching_for_transactions_history_task_s_ui_page_uift03_01_06"
                path="topics/searching_for_transactions_history_task_s_ui_page_uift03_01_06.html"/>
    <appContext helpID="new_payment_page" path="topics/new_payment_page.html"/>
+   <appContext helpID="step_by_step_guidance" path="topics/step_by_step_guidance.html"/>
    <appContext helpID="making_donations_task_s_ui_page_uift03_01_02"
                path="topics/making_donations_task_s_ui_page_uift03_01_02.html"/>
    <appContext helpID="making_mobile_payments_task_s_ui_page_uift03_01_03"
@@ -276,10 +280,8 @@
    <appContext helpID="tester" path="topics/tester.html"/>
    <appContext helpID="partner_implementator" path="topics/partner_implementator.html"/>
    <appContext helpID="bank_s_employee_roles" path="topics/bank_s_employee_roles.html"/>
-   <appContext helpID="ber_list" path="topics/ber_list.html"/>
-   <appContext helpID="ber_1" path="topics/ber_1.html"/>
-   <appContext helpID="ber_2" path="topics/ber_2.html"/>
-   <appContext helpID="ber_3" path="topics/ber_3.html"/>
+   <appContext helpID="administrator" path="topics/administrator.html"/>
+   <appContext helpID="operator" path="topics/operator.html"/>
    <appContext helpID="bank_s_corporate_client_roles"
                path="topics/bank_s_corporate_client_roles.html"/>
    <appContext helpID="bcc_list" path="topics/bcc_list.html"/>
@@ -330,7 +332,8 @@
    <appContext helpID="untitled19" path="topics/untitled19.html"/>
    <appContext helpID="functional_tasks_list" path="topics/functional_tasks_list.html"/>
    <appContext helpID="business_tasks_1" path="topics/business_tasks_1.html"/>
-   <appContext helpID="step_by_step_guidance" path="topics/step_by_step_guidance.html"/>
+   <appContext helpID="functional_analysis_confluence"
+               path="topics/functional_analysis_confluence.html"/>
    <appContext helpID="making_donations" path="topics/making_donations.html"/>
    <appContext helpID="making_mobile_payments"
                path="topics/making_mobile_payments.html"/>
