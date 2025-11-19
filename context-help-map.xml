@@ -35,7 +35,6 @@
                path="topics/what_is_digital_identity_component.html"/>
    <appContext helpID="task_you_accomlish_using_this_component"
                path="topics/task_you_accomlish_using_this_component.html"/>
-   <appContext helpID="roles_and_its_tasks" path="topics/roles_and_its_tasks.html"/>
    <appContext helpID="istallation" path="topics/istallation.html"/>
    <appContext helpID="getting_started" path="topics/getting_started.html"/>
    <appContext helpID="frequently_used_shortcut_keys"
@@ -81,6 +80,14 @@
    <appContext helpID="config_player" path="topics/config_player.html"/>
    <appContext helpID="finshape_products_clients_pay_for"
                path="topics/finshape_products_clients_pay_for.html"/>
+   <appContext helpID="digital_banking_operation_system"
+               path="topics/digital_banking_operation_system.html"/>
+   <appContext helpID="internet_banking_for_retail_client"
+               path="topics/internet_banking_for_retail_client.html"/>
+   <appContext helpID="internet_banking_for_corporate_client"
+               path="topics/internet_banking_for_corporate_client.html"/>
+   <appContext helpID="custom_digital_banking_solution"
+               path="topics/custom_digital_banking_solution.html"/>
    <appContext helpID="work_spaces_to_handle_tasks"
                path="topics/work_spaces_to_handle_tasks.html"/>
    <appContext helpID="bank_s_employee_app_ui"
