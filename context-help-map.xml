@@ -515,8 +515,15 @@
                path="topics/work_spaces_to_handle_tasks.html"/>
    <appContext helpID="bank_s_employee_app_ui"
                path="topics/bank_s_employee_app_ui.html"/>
+   <appContext helpID="admin_console_wac_0" path="topics/admin_console_wac_0.html"/>
+   <appContext helpID="desktop_bank_employee_workspaces"
+               path="topics/desktop_bank_employee_workspaces.html"/>
    <appContext helpID="bank_s_corporate_client_app_ui"
                path="topics/bank_s_corporate_client_app_ui.html"/>
+   <appContext helpID="desktop_workspace_for_business_client"
+               path="topics/desktop_workspace_for_business_client.html"/>
+   <appContext helpID="mobile_workspace_for_business_client"
+               path="topics/mobile_workspace_for_business_client.html"/>
    <appContext helpID="bank_s_privat_client_app_ui"
                path="topics/bank_s_privat_client_app_ui.html"/>
    <appContext helpID="desktop_private_client_workspace"
@@ -722,10 +729,20 @@
    <appContext helpID="bcc3" path="topics/bcc3.html"/>
    <appContext helpID="bank_s_privat_client" path="topics/bank_s_privat_client.html"/>
    <appContext helpID="rights_to_do_tasks" path="topics/rights_to_do_tasks.html"/>
+   <appContext helpID="operation_rigths" path="topics/operation_rigths.html"/>
    <appContext helpID="right_1" path="topics/right_1.html"/>
    <appContext helpID="right_2" path="topics/right_2.html"/>
    <appContext helpID="right_3" path="topics/right_3.html"/>
-   <appContext helpID="right_4" path="topics/right_4.html"/>
+   <appContext helpID="data_and_dto_access_levels"
+               path="topics/data_and_dto_access_levels.html"/>
+   <appContext helpID="low_access_level" path="topics/low_access_level.html"/>
+   <appContext helpID="middle_access_level" path="topics/middle_access_level.html"/>
+   <appContext helpID="high_access_level" path="topics/high_access_level.html"/>
+   <appContext helpID="create_right" path="topics/create_right.html"/>
+   <appContext helpID="channels_rights" path="topics/channels_rights.html"/>
+   <appContext helpID="internet_banking_right"
+               path="topics/internet_banking_right.html"/>
+   <appContext helpID="mobile_banking_right" path="topics/mobile_banking_right.html"/>
    <appContext helpID="tasks" path="topics/tasks.html"/>
    <appContext helpID="untitled10" path="topics/untitled10.html"/>
    <appContext helpID="product_tasks" path="topics/product_tasks.html"/>
@@ -757,7 +774,11 @@
                path="topics/product_development_iprocess_s_tasks.html"/>
    <appContext helpID="functional_tasks" path="topics/functional_tasks.html"/>
    <appContext helpID="admin_tasks" path="topics/admin_tasks.html"/>
+   <appContext helpID="dashboard" path="topics/dashboard.html"/>
+   <appContext helpID="client_administration" path="topics/client_administration.html"/>
    <appContext helpID="security_tasks" path="topics/security_tasks.html"/>
+   <appContext helpID="authentication" path="topics/authentication.html"/>
+   <appContext helpID="authorization" path="topics/authorization.html"/>
    <appContext helpID="business_tasks" path="topics/business_tasks.html"/>
    <appContext helpID="untitled19" path="topics/untitled19.html"/>
    <appContext helpID="functional_tasks_list" path="topics/functional_tasks_list.html"/>
@@ -784,7 +805,53 @@
    <appContext helpID="downloading_account_history"
                path="topics/downloading_account_history.html"/>
    <appContext helpID="contacting_help_desk" path="topics/contacting_help_desk.html"/>
+   <appContext helpID="accounts" path="topics/accounts.html"/>
+   <appContext helpID="accounts_common" path="topics/accounts_common.html"/>
+   <appContext helpID="view_account_list" path="topics/view_account_list.html"/>
+   <appContext helpID="view_payments_summary" path="topics/view_payments_summary.html"/>
+   <appContext helpID="rib_account_details" path="topics/rib_account_details.html"/>
+   <appContext helpID="view_account_balance_chart"
+               path="topics/view_account_balance_chart.html"/>
+   <appContext helpID="view_account_holds" path="topics/view_account_holds.html"/>
+   <appContext helpID="view_dispo_rights_for_current_user"
+               path="topics/view_dispo_rights_for_current_user.html"/>
+   <appContext helpID="export_account_list_in_xls"
+               path="topics/export_account_list_in_xls.html"/>
+   <appContext helpID="view_dispo_rights_for_all_disponents_for_client"
+               path="topics/view_dispo_rights_for_all_disponents_for_client.html"/>
+   <appContext helpID="view_list_of_account_requests"
+               path="topics/view_list_of_account_requests.html"/>
+   <appContext helpID="accounts_management" path="topics/accounts_management.html"/>
+   <appContext helpID="edit_account_friendly_name"
+               path="topics/edit_account_friendly_name.html"/>
+   <appContext helpID="view_account_sweeps" path="topics/view_account_sweeps.html"/>
+   <appContext helpID="create_account_sweep_instruction"
+               path="topics/create_account_sweep_instruction.html"/>
+   <appContext helpID="edit_account_sweep" path="topics/edit_account_sweep.html"/>
+   <appContext helpID="cancel_account_sweep" path="topics/cancel_account_sweep.html"/>
+   <appContext helpID="create_request_for_withdrawal_on_the_branch_high_amount"
+               path="topics/create_request_for_withdrawal_on_the_branch_high_amount.html"/>
+   <appContext helpID="change_transaction_limits_for_account"
+               path="topics/change_transaction_limits_for_account.html"/>
+   <appContext helpID="atm_payments" path="topics/atm_payments.html"/>
+   <appContext helpID="bill_payments" path="topics/bill_payments.html"/>
+   <appContext helpID="branch_payments" path="topics/branch_payments.html"/>
+   <appContext helpID="consumer_financing" path="topics/consumer_financing.html"/>
+   <appContext helpID="endowment" path="topics/endowment.html"/>
+   <appContext helpID="ewallet" path="topics/ewallet.html"/>
+   <appContext helpID="general" path="topics/general.html"/>
+   <appContext helpID="housing_financing" path="topics/housing_financing.html"/>
+   <appContext helpID="insurance" path="topics/insurance.html"/>
+   <appContext helpID="investments" path="topics/investments.html"/>
+   <appContext helpID="local_payments" path="topics/local_payments.html"/>
+   <appContext helpID="payment_cards" path="topics/payment_cards.html"/>
+   <appContext helpID="payments_common" path="topics/payments_common.html"/>
+   <appContext helpID="swift_payments" path="topics/swift_payments.html"/>
+   <appContext helpID="transfer_between_own_accounts"
+               path="topics/transfer_between_own_accounts.html"/>
    <appContext helpID="comunication_tasks" path="topics/comunication_tasks.html"/>
+   <appContext helpID="notifications" path="topics/notifications.html"/>
+   <appContext helpID="communication" path="topics/communication.html"/>
    <appContext helpID="report_and_analysys_tasks"
                path="topics/report_and_analysys_tasks.html"/>
    <appContext helpID="management_tasks" path="topics/management_tasks.html"/>
@@ -869,11 +936,6 @@
                path="topics/bank_employee_onboarding_task_s_steps_pts05_01.html"/>
    <appContext helpID="product_development_process_s_task_s_steps_pts06"
                path="topics/product_development_process_s_task_s_steps_pts06.html"/>
-   <appContext helpID="data_and_dto_access_levels"
-               path="topics/data_and_dto_access_levels.html"/>
-   <appContext helpID="low_access_level" path="topics/low_access_level.html"/>
-   <appContext helpID="middle_access_level" path="topics/middle_access_level.html"/>
-   <appContext helpID="high_access_level" path="topics/high_access_level.html"/>
    <appContext helpID="dto_sources" path="topics/dto_sources.html"/>
    <appContext helpID="dto_types" path="topics/dto_types.html"/>
    <appContext helpID="dto_for_admin_dbos_functions"
