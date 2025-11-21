@@ -149,9 +149,67 @@
                path="topics/third_party_registry_tpreg.html"/>
    <appContext helpID="applications_module" path="topics/applications_module.html"/>
    <appContext helpID="admin_console_wac" path="topics/admin_console_wac.html"/>
-   <appContext helpID="starter_kit" path="topics/starter_kit.html"/>
+   <appContext helpID="desktop_internet_banking_application"
+               path="topics/desktop_internet_banking_application.html"/>
+   <appContext helpID="introduction_to_this_user_guide_3"
+               path="topics/introduction_to_this_user_guide_3.html"/>
+   <appContext helpID="understanding_user_guide_concept_4"
+               path="topics/understanding_user_guide_concept_4.html"/>
+   <appContext helpID="how_to_use_user_guide_4"
+               path="topics/how_to_use_user_guide_4.html"/>
+   <appContext helpID="content_life_cycle_4" path="topics/content_life_cycle_4.html"/>
+   <appContext helpID="party_4" path="topics/party_4.html"/>
+   <appContext helpID="resources_4" path="topics/resources_4.html"/>
+   <appContext helpID="introduction_to_the_product_3"
+               path="topics/introduction_to_the_product_3.html"/>
+   <appContext helpID="what_is_the_product_3" path="topics/what_is_the_product_3.html"/>
+   <appContext helpID="business_tasks_you_accomlish_using_this_product_3"
+               path="topics/business_tasks_you_accomlish_using_this_product_3.html"/>
+   <appContext helpID="installation_3" path="topics/installation_3.html"/>
+   <appContext helpID="getting_started_4" path="topics/getting_started_4.html"/>
+   <appContext helpID="frequently_used_shortcut_keys_4"
+               path="topics/frequently_used_shortcut_keys_4.html"/>
+   <appContext helpID="your_first_steps_4" path="topics/your_first_steps_4.html"/>
+   <appContext helpID="getting_help_4" path="topics/getting_help_4.html"/>
+   <appContext helpID="resources_to_help_you_getting_started_4"
+               path="topics/resources_to_help_you_getting_started_4.html"/>
+   <appContext helpID="configuration_4" path="topics/configuration_4.html"/>
+   <appContext helpID="maintenance_4" path="topics/maintenance_4.html"/>
+   <appContext helpID="working_with_the_product_3"
+               path="topics/working_with_the_product_3.html"/>
+   <appContext helpID="troubleshooting_4" path="topics/troubleshooting_4.html"/>
+   <appContext helpID="ios_and_android_smartphone_banking"
+               path="topics/ios_and_android_smartphone_banking.html"/>
+   <appContext helpID="introduction_to_this_user_guide_4"
+               path="topics/introduction_to_this_user_guide_4.html"/>
+   <appContext helpID="understanding_user_guide_concept_5"
+               path="topics/understanding_user_guide_concept_5.html"/>
+   <appContext helpID="how_to_use_user_guide_5"
+               path="topics/how_to_use_user_guide_5.html"/>
+   <appContext helpID="content_life_cycle_5" path="topics/content_life_cycle_5.html"/>
+   <appContext helpID="party_5" path="topics/party_5.html"/>
+   <appContext helpID="resources_5" path="topics/resources_5.html"/>
+   <appContext helpID="introduction_to_the_product_4"
+               path="topics/introduction_to_the_product_4.html"/>
+   <appContext helpID="what_is_the_product_4" path="topics/what_is_the_product_4.html"/>
+   <appContext helpID="business_tasks_you_accomlish_using_this_product_4"
+               path="topics/business_tasks_you_accomlish_using_this_product_4.html"/>
+   <appContext helpID="installation_4" path="topics/installation_4.html"/>
+   <appContext helpID="getting_started_5" path="topics/getting_started_5.html"/>
+   <appContext helpID="frequently_used_shortcut_keys_5"
+               path="topics/frequently_used_shortcut_keys_5.html"/>
+   <appContext helpID="your_first_steps_5" path="topics/your_first_steps_5.html"/>
+   <appContext helpID="getting_help_5" path="topics/getting_help_5.html"/>
+   <appContext helpID="resources_to_help_you_getting_started_5"
+               path="topics/resources_to_help_you_getting_started_5.html"/>
+   <appContext helpID="configuration_5" path="topics/configuration_5.html"/>
+   <appContext helpID="maintenance_5" path="topics/maintenance_5.html"/>
+   <appContext helpID="working_with_the_product_4"
+               path="topics/working_with_the_product_4.html"/>
+   <appContext helpID="troubleshooting_5" path="topics/troubleshooting_5.html"/>
    <appContext helpID="tools" path="topics/tools.html"/>
    <appContext helpID="alfons" path="topics/alfons.html"/>
+   <appContext helpID="starter_kit" path="topics/starter_kit.html"/>
    <appContext helpID="flow_designer" path="topics/flow_designer.html"/>
    <appContext helpID="camunda" path="topics/camunda.html"/>
    <appContext helpID="configurator" path="topics/configurator.html"/>
@@ -164,6 +222,34 @@
    <appContext helpID="finshape_products_clients_pay_for"
                path="topics/finshape_products_clients_pay_for.html"/>
    <appContext helpID="digital_identity_0" path="topics/digital_identity_0.html"/>
+   <appContext helpID="introduction_to_this_user_guide_12"
+               path="topics/introduction_to_this_user_guide_12.html"/>
+   <appContext helpID="understanding_user_guide_concept_13"
+               path="topics/understanding_user_guide_concept_13.html"/>
+   <appContext helpID="how_to_use_user_guide_13"
+               path="topics/how_to_use_user_guide_13.html"/>
+   <appContext helpID="content_life_cycle_13" path="topics/content_life_cycle_13.html"/>
+   <appContext helpID="party_13" path="topics/party_13.html"/>
+   <appContext helpID="resources_13" path="topics/resources_13.html"/>
+   <appContext helpID="introduction_to_the_product_12"
+               path="topics/introduction_to_the_product_12.html"/>
+   <appContext helpID="what_is_the_product_12"
+               path="topics/what_is_the_product_12.html"/>
+   <appContext helpID="business_tasks_you_accomlish_using_this_product_12"
+               path="topics/business_tasks_you_accomlish_using_this_product_12.html"/>
+   <appContext helpID="installation_12" path="topics/installation_12.html"/>
+   <appContext helpID="getting_started" path="topics/getting_started.html"/>
+   <appContext helpID="frequently_used_shortcut_keys_13"
+               path="topics/frequently_used_shortcut_keys_13.html"/>
+   <appContext helpID="your_first_steps_13" path="topics/your_first_steps_13.html"/>
+   <appContext helpID="getting_help_13" path="topics/getting_help_13.html"/>
+   <appContext helpID="resources_to_help_you_getting_started_13"
+               path="topics/resources_to_help_you_getting_started_13.html"/>
+   <appContext helpID="configuration_13" path="topics/configuration_13.html"/>
+   <appContext helpID="maintenance" path="topics/maintenance.html"/>
+   <appContext helpID="working_with_the_product_12"
+               path="topics/working_with_the_product_12.html"/>
+   <appContext helpID="troubleshooting" path="topics/troubleshooting.html"/>
    <appContext helpID="authentication_and_authorization_solution"
                path="topics/authentication_and_authorization_solution.html"/>
    <appContext helpID="introduction_to_this_user_guide_1"
@@ -251,64 +337,6 @@
    <appContext helpID="working_with_the_product_11"
                path="topics/working_with_the_product_11.html"/>
    <appContext helpID="troubleshooting_12" path="topics/troubleshooting_12.html"/>
-   <appContext helpID="desktop_internet_banking_application"
-               path="topics/desktop_internet_banking_application.html"/>
-   <appContext helpID="introduction_to_this_user_guide_3"
-               path="topics/introduction_to_this_user_guide_3.html"/>
-   <appContext helpID="understanding_user_guide_concept_4"
-               path="topics/understanding_user_guide_concept_4.html"/>
-   <appContext helpID="how_to_use_user_guide_4"
-               path="topics/how_to_use_user_guide_4.html"/>
-   <appContext helpID="content_life_cycle_4" path="topics/content_life_cycle_4.html"/>
-   <appContext helpID="party_4" path="topics/party_4.html"/>
-   <appContext helpID="resources_4" path="topics/resources_4.html"/>
-   <appContext helpID="introduction_to_the_product_3"
-               path="topics/introduction_to_the_product_3.html"/>
-   <appContext helpID="what_is_the_product_3" path="topics/what_is_the_product_3.html"/>
-   <appContext helpID="business_tasks_you_accomlish_using_this_product_3"
-               path="topics/business_tasks_you_accomlish_using_this_product_3.html"/>
-   <appContext helpID="installation_3" path="topics/installation_3.html"/>
-   <appContext helpID="getting_started_4" path="topics/getting_started_4.html"/>
-   <appContext helpID="frequently_used_shortcut_keys_4"
-               path="topics/frequently_used_shortcut_keys_4.html"/>
-   <appContext helpID="your_first_steps_4" path="topics/your_first_steps_4.html"/>
-   <appContext helpID="getting_help_4" path="topics/getting_help_4.html"/>
-   <appContext helpID="resources_to_help_you_getting_started_4"
-               path="topics/resources_to_help_you_getting_started_4.html"/>
-   <appContext helpID="configuration_4" path="topics/configuration_4.html"/>
-   <appContext helpID="maintenance_4" path="topics/maintenance_4.html"/>
-   <appContext helpID="working_with_the_product_3"
-               path="topics/working_with_the_product_3.html"/>
-   <appContext helpID="troubleshooting_4" path="topics/troubleshooting_4.html"/>
-   <appContext helpID="ios_and_android_smartphone_banking"
-               path="topics/ios_and_android_smartphone_banking.html"/>
-   <appContext helpID="introduction_to_this_user_guide_4"
-               path="topics/introduction_to_this_user_guide_4.html"/>
-   <appContext helpID="understanding_user_guide_concept_5"
-               path="topics/understanding_user_guide_concept_5.html"/>
-   <appContext helpID="how_to_use_user_guide_5"
-               path="topics/how_to_use_user_guide_5.html"/>
-   <appContext helpID="content_life_cycle_5" path="topics/content_life_cycle_5.html"/>
-   <appContext helpID="party_5" path="topics/party_5.html"/>
-   <appContext helpID="resources_5" path="topics/resources_5.html"/>
-   <appContext helpID="introduction_to_the_product_4"
-               path="topics/introduction_to_the_product_4.html"/>
-   <appContext helpID="what_is_the_product_4" path="topics/what_is_the_product_4.html"/>
-   <appContext helpID="business_tasks_you_accomlish_using_this_product_4"
-               path="topics/business_tasks_you_accomlish_using_this_product_4.html"/>
-   <appContext helpID="installation_4" path="topics/installation_4.html"/>
-   <appContext helpID="getting_started_5" path="topics/getting_started_5.html"/>
-   <appContext helpID="frequently_used_shortcut_keys_5"
-               path="topics/frequently_used_shortcut_keys_5.html"/>
-   <appContext helpID="your_first_steps_5" path="topics/your_first_steps_5.html"/>
-   <appContext helpID="getting_help_5" path="topics/getting_help_5.html"/>
-   <appContext helpID="resources_to_help_you_getting_started_5"
-               path="topics/resources_to_help_you_getting_started_5.html"/>
-   <appContext helpID="configuration_5" path="topics/configuration_5.html"/>
-   <appContext helpID="maintenance_5" path="topics/maintenance_5.html"/>
-   <appContext helpID="working_with_the_product_4"
-               path="topics/working_with_the_product_4.html"/>
-   <appContext helpID="troubleshooting_5" path="topics/troubleshooting_5.html"/>
    <appContext helpID="four_eyes" path="topics/four_eyes.html"/>
    <appContext helpID="introduction_to_this_user_guide_5"
                path="topics/introduction_to_this_user_guide_5.html"/>
