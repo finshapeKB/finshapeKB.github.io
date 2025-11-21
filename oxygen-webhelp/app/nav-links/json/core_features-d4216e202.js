@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"core_features-d4216e202":{"topics":[{"title":"GPS in a Nutshell","href":"topics\/gps_in_a_nutshell.html","attributes":{"data-id":"gps_in_a_nutshell"},"menu":{"hasChildren":false},"tocID":"gps_in_a_nutshell-d4216e210","topics":[]}]}};

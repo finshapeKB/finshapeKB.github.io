@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"business_tasks_1-d4216e4263":{"topics":[{"title":"Functional Analysis (Confluence)","href":"topics\/functional_analysis_confluence.html","attributes":{"data-id":"functional_analysis_confluence"},"menu":{"hasChildren":false},"tocID":"functional_analysis_confluence-d4216e4274","topics":[]}]}};
