@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"architectural_decisions-d6088e773":{"topics":[{"title":"Technical Architectural Decisions","href":"topics\/technical_architectural_decisions.html","attributes":{"data-id":"technical_architectural_decisions"},"menu":{"hasChildren":false},"tocID":"technical_architectural_decisions-d6088e781","topics":[]}]}};

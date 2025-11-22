@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"authorization-d6088e4650":{"topics":[{"title":"Authorize Request with SMS OTP","href":"topics\/authorize_request_with_sms_otp.html","attributes":{"data-id":"authorize_request_with_sms_otp"},"menu":{"hasChildren":false},"tocID":"authorize_request_with_sms_otp-d6088e4658","topics":[]}]}};

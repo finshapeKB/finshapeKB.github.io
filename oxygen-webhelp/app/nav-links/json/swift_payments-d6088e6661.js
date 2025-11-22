@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"swift_payments-d6088e6661":{"topics":[{"title":"Single Payment","href":"topics\/single_payment_2.html","attributes":{"data-id":"single_payment_2"},"menu":{"hasChildren":false},"tocID":"single_payment_2-d6088e6669","next":"single_payment_2-d6088e6669"}]}};

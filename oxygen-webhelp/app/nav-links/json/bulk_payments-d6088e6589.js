@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"bulk_payments-d6088e6589":{"topics":[{"title":"Create Bulk Payment","href":"topics\/create_bulk_payment.html","attributes":{"data-id":"create_bulk_payment"},"menu":{"hasChildren":false},"tocID":"create_bulk_payment-d6088e6597","topics":[]}]}};
